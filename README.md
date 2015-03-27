@@ -7,11 +7,12 @@ Important links:
 * Socher's home page: http://www.socher.org/  
 * Socher's thesis: http://nlp.stanford.edu/~socherr/thesis.pdf
 * Socher's paper: http://nlp.stanford.edu/sentiment/code.html
+* Supplementary material: http://nlp.stanford.edu/~socherr/EMNLP2013\_SemComp\_SuppMat.pdf
 
 ``Common problems in other methods and their solutions:``
 * Represent text in terms of unordered list of words. Sentiments depend not just on the word meanings but how they are ordered.
 
-In Recursive NN ordering matters. The syntactic rules of natural language are known to be recursive (example sentence??). Matrix is used for each word which captures how it changes the meaning of neighboring words. This matrix is then learned for phrases containing the words and smallers phrases. It being recursive, the input need not be fixed. (?? We don't use matrix in tensor..)
+In Recursive NN ordering matters. The syntactic rules of natural language are known to be recursive (example sentence??). It being recursive, the input need not be fixed. Matrix is used for each word which captures how it changes the meaning of neighboring words. This matrix is then learned for phrases containing the words and smallers phrases. (?? We don't use matrix in tensor..)
 * Consider only fixed number of neighbours around each word.
 
 In NN, effect of a word isn't limited to a fixed no. of words in neighborhood.
