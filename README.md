@@ -7,7 +7,7 @@ Important links:
 * Socher's home page: http://www.socher.org/  
 * Socher's thesis: http://nlp.stanford.edu/~socherr/thesis.pdf
 * Socher's paper: http://nlp.stanford.edu/sentiment/code.html
-* Supplementary material: http://nlp.stanford.edu/~socherr/EMNLP2013\_SemComp\_SuppMat.pdf
+* Supplementary material: http://nlp.stanford.edu/~socherr/EMNLP2013_SemComp_SuppMat.pdf
 
 ``Common problems in other methods and their solutions:``
 * Represent text in terms of unordered list of words. Sentiments depend not just on the word meanings but how they are ordered.
