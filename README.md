@@ -1,21 +1,31 @@
 # PhraseSemantics
 Here we try to get the sematics of phrase using Recursive Neural Networks on the word vectors.
-The paper we refer is Semantic Compositionality through Recursive Matrix-Vector Spaces by Richard Socher who has done this work during work his PhD thesis.
+The paper we refer is "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank i.e. Socher et al., 2013d"
+by Richard Socher who has done this work during work his PhD thesis.
 
 Important links:
 * Socher's home page: http://www.socher.org/  
 * Socher's thesis: http://nlp.stanford.edu/~socherr/thesis.pdf
+* Socher's paper: http://nlp.stanford.edu/sentiment/code.html
 
 ``Common problems in other methods and their solutions:``
 * Represent text in terms of unordered list of words. Sentiments depend not just on the word meanings but how they are ordered.
 
-In Recursive NN ordering matters, and we use matrix for each word which captures how it changes the meaning of neighboring words. This matrix is then learned for phrases containing the words and smallers phrases. It being recursive, the input need not be fixed.
+In Recursive NN ordering matters. The syntactic rules of natural language are known to be recursive (example sentence??). Matrix is used for each word which captures how it changes the meaning of neighboring words. This matrix is then learned for phrases containing the words and smallers phrases. It being recursive, the input need not be fixed. (?? We don't use matrix in tensor..)
 * Consider only fixed number of neighbours around each word.
 
 In NN, effect of a word isn't limited to a fixed no. of words in neighborhood.
 * For good results, a lot of manually designed features like relationship with other words, the part of speech, etc are needed.
 
 But NN: Automatically learns features from raw input.
+
+So, Recursive NN not only predict an underlying hierarchical structure but also learn how words compose the meaning of longer phrases inside such structures
+
+Recursive neural tensor network (Socher et al., 2013d) allows both additive and mediated multiplicative interactions between 
+vectors and is able to learn several important compositional sentiment effects in language such as
+negation and its scope and contrastive conjunctions like but.
+
+How is pretraining done?
 
 Using git:
 ```
