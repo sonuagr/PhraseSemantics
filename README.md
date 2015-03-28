@@ -1,6 +1,6 @@
 # PhraseSemantics
 Here we try to get the sematics of phrase using Recursive Neural Networks on the word vectors.
-The paper we refer is "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank i.e. Socher et al., 2013d"
+The paper we refer is "Semantic Compositionality Through Recursive Matrix-Vector Spaces i.e. Socher et al., 2012b"
 by Richard Socher who has done this work during work his PhD thesis.
 
 Important links:
@@ -23,7 +23,7 @@ So, Recursive NN not only predict an underlying hierarchical structure but also 
 
 Recursive neural tensor network (Socher et al., 2013d) allows both additive and mediated multiplicative interactions between 
 vectors and is able to learn several important compositional sentiment effects in language such as
-negation and its scope and contrastive conjunctions like but. (?? We aren't using tensor..)
+negation and its scope and contrastive conjunctions like but. (?? We aren't using tensor. is it learnt by our model as well??)
 
 How is pretraining done?
 
