@@ -27,6 +27,20 @@ negation and its scope and contrastive conjunctions like but. (?? We aren't usin
 
 How is pretraining done?
 
+How are word-vectors made?:  The meaning of a word is encoded as a vector
+computed from co-occurrence statistics of a word and its neighboring words. How?
+
+Paper:
+The vector captures the meaning of
+that constituent. The matrix captures how it modifies
+the meaning of the other word that it combines with.
+A representation for a longer phrase is computed
+bottom-up by recursively combining the words according 
+to the syntactic structure of a parse tree. How did you get the parse tree?
+Neural network act as the merging function.
+The MV-RNN is the only model that is able to properly negate sen-
+timent when adjectives are combined with not.
+
 Using git:
 ```
 1. Pull from remote: git pull origin master
