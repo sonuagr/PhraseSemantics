@@ -1,0 +1,59 @@
+(vs)
+TODO:
+source of table of examples should be database.
+
+Lapata:
+* word vector's ability to represent meaning simply by using distributional
+information under the assumption that words occurring within similar contexts are semantically simi-
+lar.
+* vector composition, which we operationalize in terms of additive and multiplicative functions. 
+* Semantic networks (Collins & Quillian, 1969) represent concepts as nodes in a 
+graph. Edges in the graph denote semantic relationships between concepts. But they 
+constitute a somewhat idealized representation that abstracts away from real-word 
+usage. (Vs: How to decide which relation to choose if two possible)
+* For each word the features are obtained by asking native
+speakers to generate attributes they consider important in describing the meaning of
+a word .This allows the representation of each word by a distribution of numerical 
+values over the feature set. But its manual.
+* Words that are similar in meaning, for example, boat and ship tend to occur in 
+contexts of similar words, such as sail, sea, sailor, and so on. Words are 
+represented as vectors in a high-dimensional space, where each component corresponds 
+to some co-occurring contextual element.
+* that models of semantic similarity should ideally handle the combination of 
+semantic content in a syntactically aware manner.
+* Frege’s principle of compositionality states that the meaning of a
+complete sentence must be explained in terms of the meanings of its subsentential 
+parts, including those of its singular terms.
+* Word vector averaging:  it is unfortunately insensitive to word order, and more 
+generally syntactic structure, giving the same representation to any constructions 
+that happen to share the same vocabulary
+
+(Vs: we can make representations from one word to other using MV-RNN eg.in Book is in the table and table contains book. Both have arrow from Table to book.)
+
+* Compositionality allows languages to construct complex meanings from combinations
+of simpler elements. 
+* Frege (1884) himself who cautions never to ask for the meaning of a word in 
+isolation but only in the context of a statement. 
+* Specifically, we formulate composition as a function
+of two vectors and introduce models based on addition and multiplication.
+* composition of two constituents, u and v, in terms of a function acting on those
+constituents: p = f(u,v)
+* The meaning of a whole is a function of the meaning of the parts and of
+the way they are syntactically combined.: p = f(u,v,R)
+* additional information includes both knowledge about the language itself and also knowledge about the real world. p = f(u,v,R, K)
+*  Most significantly, there is
+the fundamental difficulty of specifying what sort of ‘‘function of the meanings of the parts’’ is involved in semantic composition
+* Our work goes beyond these isolated proposals; we present a framework for vector
+composition which allows us to explore a range of potential composition functions, their properties, and relations.
+* we focus on small phrases, consisting of a head and a modifier or comple-
+ment, which form the building blocks of larger units
+* In restricting all representations within a space of fixed dimensions, we are
+implicitly imposing a limit on the complexity of structures which can be fully represented.
+(VS he suggested that:)*  if nouns are represented by plain vectors then adjectives, as modifiers of nouns, are represented by matrices
+* p = Au + Bv where A and B are matrices which determine the contributions made by u and v to p
+or Or we can assume that p is a linear function of the tensor product of u and v, giving a
+multiplicative class of composition functions:
+p = Cuv where C is a tensor of rank 3,
+ * linearity and same space vectors help make calculations easy: "computationally feasible"
+
+vs: good has insignificant vector but significant matrix

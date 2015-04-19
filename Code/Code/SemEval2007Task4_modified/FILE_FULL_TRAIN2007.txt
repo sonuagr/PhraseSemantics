@@ -1,0 +1,2894 @@
+001 "Put <e1>tea</e1> in a <e2>heat-resistant jug</e2> and add the boiling water."
+Content-Container(e1,e2)
+
+002 "The <e1>kitchen</e1> holds patient <e2>drinks</e2> and snacks."
+Content-Container(e2,e1)
+
+003 "Where are the <e1>batteries</e1> kept in a <e2>phone</e2>?"
+Content-Container(e1,e2)
+
+004 "This answer leads me to think that the <e1>robber</e1> was inside the <e2>office</e2> when the manager decided to take action and escape out the side door."
+Content-Container(e1,e2)
+
+005 "Often the <e1>patient</e1> is kept in the <e2>hospital</e2> one night for observation, but in other cases the patient can be discharged home the same day as surgery."
+Content-Container(e1,e2)
+
+006 "<e1>Batteries</e1> stored in <e2>contact</e2> with one another can generate heat and hydrogen gas."
+Content-Container(e1,e2)
+
+007 "Among the contents of the <e1>vessel</e1> were a set of carpenter's <e2>tools</e2>, several large storage jars, ceramic utensils, ropes and remnants of food, as well as a heavy load of ballast stones."
+Content-Container(e2,e1)
+
+008 "You can put <e1>wine</e1> in the <e2>hookah water</e2>, and otherwise adulterate the tobacco and so on to change the flavor."
+Content-Container(e1,e2)
+
+009 "And we do recommend excersise, as the <e1>kitchen</e1> holds <e2>culinary temptations</e2> in store for you that are bound to prolong your evening and lift your spirit."
+Content-Container(e2,e1)
+
+010 "The <e1>catalogue</e1> contained <e2>books</e2> published in 1998 warning of the upcoming millennium bug and other similarly germane works, but neither of Brock's bestsellers."
+Content-Container(e2,e1)
+
+011 "Vinegar's <e1>usefulness</e1> doesn't stop inside the <e2>house</e2>."
+Content-Container(e1,e2)
+
+012 "You'll rarely see a <e1>clock</e1> inside a <e2>casino</e2>, the same goes for windows."
+Content-Container(e1,e2)
+
+013 "The original Waldorf <e1>salad</e1>, created at New York's Waldorf Astoria Hotel in the 1890s, contained only <e2>apples</e2>, mayonnaise, and celery."
+Content-Container(e2,e1)
+
+014 "The <e1>library</e1> contained <e2>books</e2> of guidance on the processes."
+Content-Container(e2,e1)
+
+015 "The story not only put <e1>wine</e1> in a <e2>positive health light</e2>, but pointed out that it was superior to other foods in that particular regard."
+Content-Container(e1,e2)
+
+016 "Our water froze and <e1>batteries</e1> kept in <e2>pockets</e2> got cold."
+Content-Container(e1,e2)
+
+017 "How do I recognize a <e1>room</e1> that contains <e2>radioactive materials</e2>?"
+Content-Container(e2,e1)
+
+018 "<e1>Equipment</e1> for making repairs en route was carried in a <e2>jockey box</e2> attached to one end or side of the wagon."
+Content-Container(e1,e2)
+
+019 "The <e1>video</e1> contains a <e2>clip</e2> from the movie."
+Content-Container(e2,e1)
+
+020 "The contents of the <e1>cyst</e1> included a foul smelling <e2>gas</e2> and white-green pus."
+Content-Container(e2,e1)
+
+021 "The contents of the <e1>memorandum</e1> included <e2>stigmatizing statements</e2> about Cannon."
+Content-Container(e2,e1)
+
+022 "The <e1>display table</e1> contained <e2>books</e2> and posters for visitors to browse."
+Content-Container(e2,e1)
+
+023 "The <e1>bomb</e1> was contained in a <e2>suitcase</e2> and was planted by two men."
+Content-Container(e1,e2)
+
+024 "We kept the <e1>antenna</e1> inside the <e2>car</e2>, which limited range due to the car's attenuation."
+Content-Container(e1,e2)
+
+025 "Any <e1>marinade</e1> that contains <e2>acid</e2>, alcohol or salt should not be used for very long, because it will chemically 'cook' or denature the food in it."
+Content-Container(e2,e1)
+
+026 "This experiment is performed with an aqueous solution of a strong <e1>acid</e1> inside a <e2>flask</e2>."
+Content-Container(e1,e2)
+
+027 "Arthur and Franz are thieves, or they're trying to be thieves, and somehow learn that Odile lives in a <e1>house</e1> that contains a large sum of <e2>money</e2>."
+Content-Container(e2,e1)
+
+028 "A tokamak is a toroidal (doughnut shape) <e1>magnetic bottle</e1> that contains the <e2>fusion plasma</e2>."
+Content-Container(e2,e1)
+
+029 "A letterbox is a plastic, screw-top <e1>bottle</e1> that contains a small <e2>notebook</e2> and a unique rubber stamp."
+Content-Container(e2,e1)
+
+030 "That's because nostalgia serves a useful defensive and reparative function; it took the <e1>sting</e1> from a <e2>painful episode</e2> in his life by shading the script."
+Content-Container(e1,e2)
+
+031 "It has long been thought that the <e1>crypt</e1> contained the <e2>tomb</e2> of St Paul but the altar had hidden it."
+Content-Container(e2,e1)
+
+032 "Flash Drives were designed to be portable - worn on a necklace or key chain - while <e1>diskettes</e1> should be carried in a <e2>case</e2> for protection."
+Content-Container(e1,e2)
+
+033 "The <e1>clutter</e1> in my <e2>house</e2> was destroying me."
+Content-Container(e1,e2)
+
+034 "Because of the Depression the original design was cut back significantly, but the <e1>building</e1> contained a number of unique <e2>architectural features</e2>."
+Content-Container(e2,e1)
+
+035 "While Calvin is able to get the diamond, he's nearly caught by the police while making his getaway, and stashes the <e1>jewel</e1> in a <e2>bag</e2> carried by a passerby."
+Content-Container(e1,e2)
+
+036 "The <e1>kitchen</e1> holds a <e2>cooker</e2>, fridge, microwave oven, in short; everything you need if you want to prepare a light meal."
+Content-Container(e2,e1)
+
+037 "Let us sprinkle flowers around and put <e1>wine</e1> in the <e2>cup</e2>."
+Content-Container(e1,e2)
+
+038 "The <e1>bulbs</e1> in my <e2>house</e2> use 190 watts."
+Content-Container(e1,e2)
+
+039 "Tim Boyle (1846) checks a <e1>flask</e1> that contains the dried cathode precursor <e2>powder</e2>."
+Content-Container(e2,e1)
+
+040 "Your <e1>stomach</e1> is supposed to contain <e2>acid</e2>."
+Content-Container(e2,e1)
+
+041 "Tapestries of rocky coastlines share wall space with a <e1>clock</e1> inside a ship's <e2>wheel</e2>."
+Content-Container(e1,e2)
+
+042 "The <e1>turn signal indicator</e1> inside the <e2>car</e2> was blinking erratically for the last month and someone recently explained that it meant the bulb had gone somewhere on the left."
+Content-Container(e1,e2)
+
+043 "In the case of aerodynamic lift, the <e1>aircraft</e1> is kept in the <e2>air</e2> by wings or rotors (see aerodynamics)."
+Content-Container(e1,e2)
+
+044 "Suddenly, a man approached me from nowhere and stuck a bag of <e1>candy</e1> in my <e2>face</e2>."
+Content-Container(e1,e2)
+
+045 "I am installing lights under the <e1>cabinets</e1> in my <e2>kitchen</e2>."
+Content-Container(e1,e2)
+
+046 "When he was back he noticed that he had locked the <e1>keys</e1> inside the <e2>car</e2>."
+Content-Container(e1,e2)
+
+047 "This represents a <e1>house</e1> that contains a <e2>light bulb</e2> and an airconditioner."
+Content-Container(e2,e1)
+
+048 "Because the <e1>air</e1> in the <e2>jar</e2> cannot circulate to the rest of the room, this air stays in the sunlight and gets warmer and warmer."
+Content-Container(e1,e2)
+
+049 "If you mount the photo on a <e1>material</e1> that contains <e2>acid</e2> the paper will absorb the acid which in turn will attack the photo itself."
+Content-Container(e2,e1)
+
+050 "There are four <e1>caverns</e1> located inside the <e2>cave</e2> with the tunnel heading west being the largest."
+Content-Container(e1,e2)
+
+051 "Harry Stanley, 46, from Hackney, East London, was shot and killed by Metropolitan Police officers who apparently had mistaken a <e1>chair-leg</e1> being carried in a <e2>plastic bag</e2> for a firearm."
+Content-Container(e1,e2)
+
+052 "The <e1>building</e1> contained a significant amount of <e2>school furniture</e2> and equipment."
+Content-Container(e2,e1)
+
+053 "I put <e1>candy</e1> in my <e2>jar</e2>."
+Content-Container(e1,e2)
+
+054 "A pool with a sand <e1>beach</e1> is located inside the <e2>cave</e2>."
+Content-Container(e1,e2)
+
+055 "You own a <e1>house</e1> that contains a <e2>granny flat</e2>."
+Content-Container(e2,e1)
+
+056 "The <e1>box</e1> contained the jumbled <e2>skeletal remains</e2> of what appeared to be sheep, as well as a variety of other mammals."
+Content-Container(e2,e1)
+
+057 "The discharge <e1>valve</e1> is kept in the <e2>closed position</e2> at all times unless the dike is deliberately being drained."
+Content-Container(e1,e2)
+
+058 "He sued Georgia Tech and the Board of Regents, claiming his professor and the University's administration should have provided him with laboratory safety training and should have warned him of the dangers of mixing acetone, ethanol, and <e1>nitric acid</e1> inside a <e2>metal container</e2>."
+Content-Container(e1,e2)
+
+059 "The <e1>heater</e1> inside the <e2>car</e2> consumed gasoline."
+Content-Container(e1,e2)
+
+060 "The contents of the <e1>boxes</e1> included <e2>phone cards</e2>, disposable cameras and razors, travel-size toiletries, snack food, and lots of candy."
+Content-Container(e2,e1)
+
+061 "The <e1>food</e1> is kept in the <e2>kitchen</e2> and guests should help themselves as it is self service and not served by the hostel."
+Content-Container(e1,e2)
+
+062 "He used a stable form of <e1>liquid nitroglycerin</e1> carried in a <e2>bottle</e2> labeled as contact lens solution, using cotton as a stabilizer."
+Content-Container(e1,e2)
+
+063 "The <e1>kitchen</e1> contained primarily <e2>drug paraphernalia</e2>."
+Content-Container(e2,e1)
+
+064 "The <e1>kitchen</e1> contained one other interesting item, a <e2>trap door</e2> in the ceiling."
+Content-Container(e2,e1)
+
+065 "The main cell types are fibroblasts, macrophages and adipocytes (the <e1>hypodermis</e1> contains 50% of <e2>body fat</e2>)."
+Content-Container(e2,e1)
+
+066 "Do not use perchloric or <e1>hydrofluoric acid</e1> inside a <e2>fume hood</e2> unless the hood was specifically designed for its use."
+Content-Container(e1,e2)
+
+067 "Contents of the <e1>scrapbooks</e1> included <e2>pictures</e2> cut from magazines and newspapers, stories, poems and anecdotes as well as photographs."
+Content-Container(e2,e1)
+
+068 "Put the <e1>flour</e1> in a preheated <e2>oven</e2> until warm to the touch (approximately 2 minutes)."
+Content-Container(e1,e2)
+
+069 "Retailers have done their bit to put <e1>wine</e1> in the <e2>hands</e2> of the masses, to make it more accessible to the wider UK public, and there is little more that they can do in this regard."
+Content-Container(e1,e2)
+
+070 "However, the fact that the guinea pigs appeared to function in a normal physiological manner indicates that the <e1>diets</e1> contained the necessary <e2>energy density</e2>."
+Content-Container(e2,e1)
+
+071 "The total contents of the <e1>purse</e1> included a <e2>cell phone</e2> and wallet valued at $120."
+Content-Container(e2,e1)
+
+072 "Straight ahead you enter a nice sized <e1>living room</e1> that contains the front <e2>door</e2>."
+Content-Container(e2,e1)
+
+073 "I put the remaining <e1>candy</e1> in my <e2>mouth</e2> and walked back the way I came, then past the village and into town."
+Content-Container(e1,e2)
+
+074 "I am still amazed just how deep and loud it can get with certain soundtracks and songs, literally making things bounce off the <e1>walls</e1> in my <e2>house</e2>."
+Content-Container(e1,e2)
+
+075 "Interestingly, the <e1>sink</e1> was inside the <e2>room</e2>."
+Content-Container(e1,e2)
+
+076 "The lower portion of the <e1>building</e1> contained hundreds of <e2>storage rooms</e2>."
+Content-Container(e2,e1)
+
+077 "The <e1>boil</e1> in a <e2>bag</e2> omelets work great too."
+Content-Container(e1,e2)
+
+078 "Keep <e1>money</e1> in a <e2>box</e2> and keep your eye on it at all times."
+Content-Container(e1,e2)
+
+079 "In my tests with a final engineering prototype, Scooba generally did a fine job cleaning the <e1>linoleum</e1> in my <e2>kitchen</e2> after my 2-year-old daughter's birthday party."
+Content-Container(e1,e2)
+
+080 "While that operation was a success, the contents of the <e1>satchel</e1> were a tiny <e2>loss</e2> for the traffickers."
+Content-Container(e2,e1)
+
+081 "Put the <e1>flour</e1> in a <e2>mixing bowl</e2>, and mix in the water a little at a time until you've got a dough."
+Content-Container(e1,e2)
+
+082 "The other <e1>shelves</e1> contained <e2>books</e2> with sinister-sounding titles, such as Crime and Punishment, Days of Wrath, Death Walks Among You and a few others."
+Content-Container(e2,e1)
+
+083 "The viewer looks through an <e1>eyehole</e1> in the <e2>metal box</e2> into the abyss, an infinite regression/progression of mirrors reflecting themselves."
+Content-Container(e1,e2)
+
+084 "Put the <e1>peels</e1> in a different <e2>sack</e2>."
+Content-Container(e1,e2)
+
+085 "Woz has outfitted the house with an elaborate <e1>swimming pool</e1> that extends inside the <e2>house</e2> by way of an underwater channel."
+Content-Container(e1,e2)
+
+086 "Remember to reverse the position of <e1>batteries</e1> stored in <e2>flashlights</e2> to prevent them from accidentally switching on and losing power."
+Content-Container(e1,e2)
+
+087 "The <e1>box</e1> holds three stiff <e2>cardboard tubes</e2>, each wrapped in now decaying cellophane."
+Content-Container(e2,e1)
+
+088 "Eight rooms surround a central square <e1>room</e1> that contains the mortal <e2>remains</e2> of Bibi Pari."
+Content-Container(e2,e1)
+
+089 "<e1>Batteries</e1> stored in a <e2>discharged state</e2> are susceptible to freezing, sulfation and an increased rate of discharge."
+Content-Container(e1,e2)
+
+090 "The <e1>detainee</e1> is kept in the <e2>cell</e2> 23 Â½ hours a day."
+Content-Container(e1,e2)
+
+091 "You haven't experienced true tartness until you've tasted the <e1>jelly</e1> inside a <e2>passionfruit</e2>."
+Content-Container(e1,e2)
+
+092 "A <e1>dining room</e1> that contains direct <e2>access</e2> from the kitchen is the most practical, unless the room will exist for fluff purposes only."
+Content-Container(e2,e1)
+
+093 "How can I get rid of the <e1>ants</e1> in my <e2>kitchen</e2> without using dangerous pesticides?"
+Content-Container(e1,e2)
+
+094 "Among the additional contents of the <e1>box</e1> were a <e2>controller</e2>, an audio/video connector, a plug, and quite a few manuals and booklets."
+Content-Container(e2,e1)
+
+095 "But for the family that shares the cooking and clean up duties, the <e1>kitchen</e1> holds a special <e2>nuturing role</e2> beyond supplying nutrition for the physical body."
+Content-Container(e2,e1)
+
+096 "The <e1>morning session</e1> contains a <e2>tutorial</e2> that aims to address the basic issues necessary for a better understanding of this complicated topic."
+Content-Container(e2,e1)
+
+097 "These are not simply memorable words written on a piece of <e1>paper</e1> kept in a <e2>museum</e2>."
+Content-Container(e1,e2)
+
+098 "Rather, the <e1>entrails</e1> contained mostly <e2>apples</e2> and corn."
+Content-Container(e2,e1)
+
+099 "About 2000 feet of <e1>passageways</e1> have been located inside the <e2>cave</e2>, and about half of that has been mapped."
+Content-Container(e1,e2)
+
+100 "The <e1>fruit basket</e1> contained <e2>apples</e2>, oranges and bananas."
+Content-Container(e2,e1)
+
+101 "The contents of the <e1>workshop</e1> included a <e2>discussion</e2> on various documents in respect of exports, imports and documents relating to letters of credit."
+Content-Container(e2,e1)
+
+102 "In each <e1>house</e1> lives a <e2>person</e2> with a different nationality."
+Content-Container(e2,e1)
+
+103 "Such airships are essentially motorized free balloons and the <e1>engines</e1> are carried in a <e2>car</e2> attached to the lower side or bottom of the bag."
+Content-Container(e1,e2)
+
+104 "Once the <e1>photon</e1> was inside the <e2>cloud</e2>, the control beam was switched off, allowing the photon to come to a halt inside the dense ensemble of atoms."
+Content-Container(e1,e2)
+
+105 "The contents of the <e1>bag</e1> included numerous <e2>flyers</e2> from other conference sponsors and exhibitors and some useful stationery supplies."
+Content-Container(e2,e1)
+
+106 "Because the <e1>trench</e1> was inside the <e2>fenced back yard</e2>, he saw no reason to worry about leaving it uncovered."
+Content-Container(e1,e2)
+
+107 "An <e1>office</e1> that contains <e2>plants</e2> suggests you're trying to create an agreeable environment for yourself and others."
+Content-Container(e2,e1)
+
+108 "The <e1>bowl</e1> contained <e2>apples</e2>, pears, and oranges."
+Content-Container(e2,e1)
+
+109 "<e1>Picric acid</e1> is kept in an <e2>aqueous solution</e2>, which makes it suitable and safe to handle."
+Content-Container(e1,e2)
+
+110 "Close all <e1>doors</e1> inside the <e2>house</e2> to slow down fire spread from room to room."
+Content-Container(e1,e2)
+
+111 "We actually put <e1>tea</e1> in the <e2>food</e2> whenever possible."
+Content-Container(e1,e2)
+
+112 "Now, I have a plastic <e1>bottle</e1> that contains <e2>alcohol</e2> in which I put my artificial eyelashes at night when I take them off, to clean them and keep them safe."
+Content-Container(e2,e1)
+
+113 "After the cashier put the <e1>cash</e1> in a <e2>bag</e2>, the robber saw a bottle of scotch that he wanted behind the counter on the shelf."
+Content-Container(e1,e2)
+
+114 "The conventional way to grow bacteria is to inoculate a <e1>flask</e1> that contains a <e2>broth</e2> of nutrients."
+Content-Container(e2,e1)
+
+115 "Suppose you were given a <e1>bottle</e1> that contains 400 grams of a 3.0% <e2>bleach solution</e2>."
+Content-Container(e2,e1)
+
+116 "The contents of the <e1>questionnaire</e1> included the <e2>gender</e2> and age of the patient, his/her knowledge of the procedure undertaken and the person obtaining consent."
+Content-Container(e2,e1)
+
+117 "Like many recipes for stuffing, the original <e1>recipe</e1> contained <e2>apples</e2>, but as apples are a higher carb fruit, I have substituted cranberries which have the dual effect of making the stuffing lower carb than the regular recipe and also adding a little extra seasonal color and flavor."
+Content-Container(e2,e1)
+
+118 "I explained that I was a teacher and that the <e1>boxes</e1> contained <e2>books</e2> I was bringing for the students to improve their English."
+Content-Container(e2,e1)
+
+119 "The <e1>information</e1> on the recorded talks is kept in the <e2>database</e2>."
+Content-Container(e1,e2)
+
+120 "A new <e1>composter</e1> is now available from East Sussex County Council which can be kept in the <e2>kitchen</e2> and will take all organic waste."
+Content-Container(e1,e2)
+
+121 "To repair, use duct tape or caulk to seal <e1>gaps</e1> in the <e2>metal box</e2> and between joints and seams in the duct."
+Content-Container(e1,e2)
+
+122 "The <e1>kitchen</e1> contains basic items such as <e2>salt</e2>, pepper and olive oil."
+Content-Container(e2,e1)
+
+123 "In particular, we work on devices that take the <e1>signal</e1> that is carried in a <e2>beam</e2> of light going through an optical fiber and transfer that signal to another beam of light going through the same fiber."
+Content-Container(e1,e2)
+
+124 "The <e1>building</e1> contained a large <e2>open central space</e2> with tables and chairs as well as a nursery and two tearooms."
+Content-Container(e2,e1)
+
+125 "The <e1>bag</e1> contained <e2>books</e2>, a cell phone and notepads, but no explosives."
+Content-Container(e2,e1)
+
+126 "The <e1>kitchen</e1> contained a large <e2>stove</e2>, a sink, a small table with chairs, and an old sofa that had seen many children and grandchildren tear at its skin."
+Content-Container(e2,e1)
+
+127 "I find it hard to bend and reach and I cannot use the <e1>cupboards</e1> in my <e2>kitchen</e2>."
+Content-Container(e1,e2)
+
+128 "So I was looking at the <e1>ceiling</e1> in my <e2>kitchen</e2> yelling at God."
+Content-Container(e1,e2)
+
+129 "I'm looking at one right now and he appears to be very content, despite the fact that he's trying to sleep in a <e1>kitchen</e1> that contains a noisy <e2>boiler</e2>."
+Content-Container(e2,e1)
+
+130 "There was a persistent rumor that the contents of the <e1>cornerstone</e1> included a <e2>liquor bottle</e2> that would have had 49 years to age."
+Content-Container(e2,e1)
+
+131 "Conference center has at least one dedicated main conference <e1>room</e1> that contains a minimum of 1,000 <e2>square feet</e2> and can accommodate flexible seating arrangements."
+Content-Container(e2,e1)
+
+132 "The <e1>acid</e1> is kept in a level-controlled <e2>tank</e2> (with a controller and an alarm. in the event of low acid level)."
+Content-Container(e1,e2)
+
+133 "To test this, we placed a kitchen <e1>match</e1> in the <e2>jar</e2> instead of the candle, lit the match, screwed on the lid and dropped the jar."
+Content-Container(e1,e2)
+
+134 "The <e1>building</e1> contained <e2>laboratory facilities</e2> for conducting spectrochemical, chemical, and mass spectrometric analyses."
+Content-Container(e2,e1)
+
+135 "On the other hand, the <e1>information</e1> being carried in a high frequency quasi-sinusoidal <e2>wave</e2> invites comparisons with the auditory system of vertebrates."
+Content-Container(e1,e2)
+
+136 "This is why, not only the contents of the <e1>box</e1> were a <e2>present</e2>, but the box itself was as a present."
+Content-Container(e2,e1)
+
+137 "Until 1729 the <e1>building</e1> contained only the <e2>grammar school</e2>."
+Content-Container(e2,e1)
+
+138 "Maybe some <e1>relationships</e1> are best kept in a <e2>box</e2>."
+Content-Container(e1,e2)
+
+139 "Some inactivated influenza vaccine contains thimerosal, a <e1>preservative</e1> that contains <e2>mercury</e2>."
+Content-Container(e2,e1)
+
+140 "The <e1>kitchen</e1> contains various commercial equipment such as <e2>stoves</e2>, griddles, deep fryer, and an oven."
+Content-Container(e2,e1)
+
+001 "Besides, the ink <e1>cartridge</e1> contained in the <e2>cartridge container</e2> is not working properly."
+Component-Whole(e1,e2)
+
+002 "Details of <e1>today</e1>'s <e2>bills</e2> can be found on the Order of Business page."
+Component-Whole(e2,e1)
+
+003 "After all the <e1>color</e1> <e2>spots</e2> on the filter paper have dried, go back and repeat the process with the toothpicks to get more color on each spot."
+Component-Whole(e1,e2)
+
+004 "The letters are not painted on <e1>top</e1> of the <e2>stone</e2>, but actually engraved into the granite stone."
+Component-Whole(e1,e2)
+
+005 "Typically, an unglazed <e1>clay</e1> <e2>pot</e2> is submerged for 15 to 30 minutes to absorb water."
+Component-Whole(e1,e2)
+
+006 "By capillary action, a thin line of blood will spread along the <e1>edge</e1> of the <e2>spreader</e2>."
+Component-Whole(e1,e2)
+
+007 "The <e1>hair</e1> <e2>sticks</e2> are elegantly carved bone hand painted in a wispy, abstract design of peach, rose pink and mauve under layers of protective clear enamel."
+Component-Whole(e1,e2)
+
+008 "However, an attacker could have easily added some marks to the paper and completely changed the <e1>meaning</e1> of the <e2>message</e2>."
+Component-Whole(e1,e2)
+
+009 "He brought the broken <e1>door</e1> inside the <e2>house</e2>, put it on the floor in the middle of the room and checked carefully the stains near the knob."
+Component-Whole(e1,e2)
+
+010 "He brought the broken door inside the house, put it on the floor in the <e1>middle</e1> of the <e2>room</e2> and checked carefully the stains near the knob."
+Component-Whole(e1,e2)
+
+011 "And of course the original development that enabled the Protestant Reformation, precursor of the cultural <e1>split</e1> of <e2>science</e2> from other human endeavors."
+Component-Whole(e1,e2)
+
+012 "They mirror to a large extent, but not entirely, those <e1>provisions</e1> contained in the European <e2>convention</e2> on human rights."
+Component-Whole(e1,e2)
+
+013 "The Cleveland Cavaliers envision an arena full of cheering fans with no <e1>tickets</e1> in their <e2>pockets</e2>."
+Component-Whole(e1,e2)
+
+014 "The <e1>granite</e1> <e2>benches</e2> are former windowsills from the Hearst Memorial Mining Building."
+Component-Whole(e1,e2)
+
+015 "Finding a <e1>piece</e1> of <e2>cake</e2> during Christmas holidays in Vienna is not quite a piece of cake."
+Component-Whole(e1,e2)
+
+016 "Each <e1>child</e1> received a new <e2>book</e2> of his or her own."
+Component-Whole(e2,e1)
+
+017 "Then he planted his <e1>apple</e1> <e2>seeds</e2> in neat rows and built a brush fence around the area."
+Component-Whole(e2,e1)
+
+018 "Mathematical <e1>talent</e1> is a combination of <e2>ingenuity</e2>, insight, creativity, the willingness to experiment, and persistence."
+Component-Whole(e2,e1)
+
+019 "And the whale was short in front of the big <e1>crowd</e1> of <e2>tourists</e2>."
+Component-Whole(e1,e2)
+
+020 "For heart health, <e1>margarine</e1> is low in <e2>saturated fat</e2>."
+Component-Whole(e2,e1)
+
+021 "Temporal and spatial isotopic variations in the database are also useful for distinguishing the <e1>types</e1> of <e2>methane</e2> in subsurface natural gas exploration."
+Component-Whole(e1,e2)
+
+022 "The <e1>case studies</e1> never present in <e2>manuals</e2> allow the concepts to come alive and stimulate us to understand how we can apply them to our own supply chain."
+Component-Whole(e1,e2)
+
+023 "You can see it in every leaf that trembles, in every <e1>grain</e1> of <e2>sand</e2>."
+Component-Whole(e1,e2)
+
+024 "These vocabularies can be mixed in individual RDF documents or data stores, allowing <e1>aggregation</e1> of <e2>descriptions</e2> from all available terminologies."
+Component-Whole(e1,e2)
+
+025 "This shows Wikipedia's <e1>almanac</e1> of <e2>events</e2> for the current year."
+Component-Whole(e2,e1)
+
+026 "He caught her <e1>arm</e1> just above the <e2>wrist</e2>."
+Component-Whole(e2,e1)
+
+027 "There was another sign below that showing a man's <e1>head</e1> in <e2>silhouette</e2>, painted a bright yellow."
+Component-Whole(e1,e2)
+
+028 "This reservoir is thought to be the heat source for the Geysers geothermal field (on the southwest <e1>side</e1> of the <e2>volcanic field</e2>)."
+Component-Whole(e1,e2)
+
+029 "EuroTB is the <e1>surveillance</e1> of <e2>tuberculosis</e2> in Europe."
+Component-Whole(e1,e2)
+
+030 "An FBI <e1>informant</e1> infiltrated the <e2>group</e2>, the sources say, neutralizing the threat."
+Component-Whole(e1,e2)
+
+031 "The research described in this thesis focuses on the analysis of extraterrestrial <e1>organic compounds</e1> present in <e2>carbonaceous meteorites</e2>."
+Component-Whole(e1,e2)
+
+032 "Many people think that <e1>foods</e1> with <e2>sugar alcohols</e2> are "free foods"."
+Component-Whole(e2,e1)
+
+033 "Does the black spot on your <e1>labrador</e1>'s <e2>tongue</e2> mean he's really a Chow mix?"
+Component-Whole(e2,e1)
+
+034 "In the Millennium Declaration, the member <e1>states</e1> of the <e2>organization</e2> therefore, pledged to expand and strengthen the protection of civilians."
+Component-Whole(e1,e2)
+
+035 "DOE's program is to improve current methods for producing <e1>hydrogen</e1> from <e2>coal</e2>."
+Component-Whole(e1,e2)
+
+036 "Practically the whole car was empty, because it was pretty late and all, but she sat down next to me, instead of an empty seat, because she had this big bag with her and I was sitting in the <e1>front</e1> <e2>seat</e2>."
+Component-Whole(e1,e2)
+
+037 "If you have any questions concerning the <e1>information</e1> in the <e2>Guidelines</e2>, contact the secretary."
+Component-Whole(e1,e2)
+
+039 "This means that only the <e1>copyright</e1> <e2>holders</e2> are empowered to act against violations."
+Component-Whole(e1,e2)
+
+042 "We drove down to Fort Myers in a <e1>jeep</e1> packed to the <e2>ceiling</e2> with equipment and no air conditioning."
+Component-Whole(e2,e1)
+
+043 "We removed extra <e1>underscores</e1> present in <e2>sysdef files</e2>."
+Component-Whole(e1,e2)
+
+044 "<e1>Cancer</e1> is found in <e2>lymph node areas</e2> on both sides of the diaphragm and in one area of a nearby organ or tissue other than the lymph nodes."
+Component-Whole(e1,e2)
+
+045 "The Museum exhibits major <e1>collections</e1> of <e2>antiquities</e2> from Egypt."
+Component-Whole(e2,e1)
+
+046 "An easy way to eat cake; our rich <e1>cream cheese</e1> full of <e2>raisins</e2>, apples and cinnamon."
+Component-Whole(e2,e1)
+
+047 "<e1>Colors</e1> not high in <e2>contrast</e2> can be used instead."
+Component-Whole(e2,e1)
+
+048 "But Canadian intelligence agents had seen little in their two years of surveillance to indicate that the "<e1>bunch</e1> of <e2>guys</e2>" in Montreal posed a serious danger."
+Component-Whole(e1,e2)
+
+049 "Graffiti protection coatings are painted on <e1>top</e1> of the natural or painted <e2>surfaces</e2> to form a protective shield."
+Component-Whole(e1,e2)
+
+050 "One potential problem which comes to mind upon seeing the two-inch <e1>carpet</e1> of <e2>dust</e2> covering lower Manhattan is, of course, exposure to asbestos."
+Component-Whole(e2,e1)
+
+051 "Small design <e1>changes</e1> including <e2>use</e2> of less dense tobacco, less porous paper, a smaller diameter, filter tip, and no added citrates to the paper are key elements here."
+Component-Whole(e1,e2)
+
+052 "Although our <e1>product</e1> is <e2>SUGAR</e2> FREE, it can be used as ingredient in baking (e.g. cookies) and will behave about the same as regular chocolate candy."
+Component-Whole(e2,e1)
+
+053 "The <e1>sand</e1> <e2>trap</e2> is the most difficult shot on the golf course for most novice golf players."
+Component-Whole(e1,e2)
+
+054 "This example of a uniform rod previews some common features about the process of finding the center of <e1>mass</e1> of the continuous <e2>body</e2>."
+Component-Whole(e1,e2)
+
+055 "Sadly I couldn't find any spectacular <e1>videos</e1> of <e2>superfluids</e2> in action."
+Component-Whole(e1,e2)
+
+056 "Elisabetta Valtz Fino writes interestingly on the <e1>contents</e1> of <e2>gallery</e2> XVI of the Museum, home to finds from the Seleucid period, named after Seleucus."
+Component-Whole(e1,e2)
+
+057 "EBSA protects the <e1>integrity</e1> of <e2>pensions</e2>, health plans, and other employee benefits for more than 150 million people."
+Component-Whole(e1,e2)
+
+058 "And so hunts have begun using <e1>packs</e1> of <e2>hounds</e2> in combination with birds of prey."
+Component-Whole(e1,e2)
+
+059 "They're always leaving their goddam bags out in the <e1>middle</e1> of the <e2>aisle</e2>."
+Component-Whole(e1,e2)
+
+061 "I would say that those <e1>regions</e1> are rich in <e2>fruit species</e2>."
+Component-Whole(e2,e1)
+
+062 "<e1>Linoleum</e1> is a combination of <e2>linseed oil</e2>, cork powder, wood powder, organic pigments, and limestone, applied over a jute backing."
+Component-Whole(e2,e1)
+
+063 "<e1>Lutein</e1> is found in <e2>sweet corn</e2>, kale and broccoli, as well as spinach."
+Component-Whole(e1,e2)
+
+064 "The incoming <e1>chairman</e1> of the <e2>committee</e2> is promising an array of oversight investigations that could provoke sharp disagreement with Republicans and the White House."
+Component-Whole(e1,e2)
+
+065 "This looks like a <e1>piece</e1> of a <e2>contractual tablet</e2>."
+Component-Whole(e1,e2)
+
+066 "This study investigated the <e1>effectiveness</e1> of <e2>magnesium</e2> in reducing sodium toxicity in water."
+Component-Whole(e1,e2)
+
+067 "The accident was not the only one that has raised strong doubts about <e1>air bags</e1> in <e2>BMW sedans</e2>"."
+Component-Whole(e1,e2)
+
+068 "<e1>Germanium</e1> is found in <e2>germanite</e2>, argyrodite, and some zinc ores."
+Component-Whole(e1,e2)
+
+069 "Will I get the same <e1>amount</e1> of <e2>aid</e2> for all four years?"
+Component-Whole(e1,e2)
+
+070 "The only part left from the <e1>default design</e1> was the <e2>top blue border line</e2> of the title frame."
+Component-Whole(e2,e1)
+
+071 "At The Walker Law Firm, our Orange County, California <e1>corporation</e1> <e2>attorneys</e2> offer a full range of sophisticated and specialized services."
+Component-Whole(e1,e2)
+
+072 "The <e1>rest</e1> of the <e2>story</e2> is that the tobacco control movement appears to be plagued by a severe financial conflict of interest problem."
+Component-Whole(e1,e2)
+
+073 "The university is the largest <e1>institution</e1> of <e2>research</e2> and education in Denmark with about 35.000 students and 7000 employees."
+Component-Whole(e1,e2)
+
+074 "An amazing thing about this paper is that Professor Gulan added an <e1>end note</e1> to the <e2>paper</e2> explaining that it was randomly generated by SCIgen."
+Component-Whole(e1,e2)
+
+075 "Why are the <e1>cell</e1> <e2>phones</e2> developing this much fast among the people?"
+Component-Whole(e1,e2)
+
+076 "Foreign <e1>hackers</e1> infiltrated the <e2>computer network</e2> several times in the last two months."
+Component-Whole(e1,e2)
+
+077 "The Hargrett Rare Book and Manuscript Library at the University of Georgia maintains a <e1>collection</e1> of more than 800 <e2>historic maps</e2> spanning nearly 500 years."
+Component-Whole(e2,e1)
+
+078 "A light <e1>cheese</e1> full of rustic <e2>flavors</e2>, it wakes up and soothes the senses with its unique flavor that is also warm and mild."
+Component-Whole(e2,e1)
+
+079 "Anti-aging <e1>foods</e1> are rich in <e2>antioxidants</e2>."
+Component-Whole(e2,e1)
+
+080 "That means that <e1>concentrations</e1> are not low in <e2>winter</e2> and not so high in summer."
+Component-Whole(e2,e1)
+
+081 "Researchers at Akishima Laboratories have developed similar devices in the past that used waves to draw pictures on the <e1>surface</e1> of <e2>water</e2>."
+Component-Whole(e1,e2)
+
+082 "RBC accounts for all three <e1>types</e1> of <e2>invariances</e2>."
+Component-Whole(e1,e2)
+
+083 "These images were acquired by MSSS cameras and include <e1>thousands</e1> of <e2>pictures</e2> from Mars Global Surveyor."
+Component-Whole(e1,e2)
+
+084 "Has anyone insulated a stone foundation, <e1>dirt</e1> <e2>floor</e2> basement?"
+Component-Whole(e1,e2)
+
+085 "The <e1>box</e1> includes <e2>care instructions</e2>, and the bouquet is ready to be arranged in the accompanying vase."
+Component-Whole(e2,e1)
+
+086 "I was only thirteen, and they were going to have me psychoanalyzed and all, because I broke all the <e1>windows</e1> in the <e2>garage</e2>."
+Component-Whole(e1,e2)
+
+087 "By capillary action, a thin <e1>line</e1> of <e2>blood</e2> will spread along the edge of the spreader."
+Component-Whole(e1,e2)
+
+088 "The bran and the <e1>germ</e1> are nutrient-rich parts of the <e2>grain</e2> and thus whole grain products are far healthier than products made with white flour."
+Component-Whole(e1,e2)
+
+089 "Languages can benefit <e1>people</e1> from all <e2>walks</e2> of life."
+Component-Whole(e1,e2)
+
+090 "Then something caught the man's <e1>eye</e1> just above the <e2>clouds</e2>."
+Component-Whole(e2,e1)
+
+091 "He pushed a chunk of <e1>marble</e1> across the <e2>table</e2> towards her."
+Component-Whole(e1,e2)
+
+092 "The <e1>place</e1> of <e2>women</e2> in today's Church will be explored at the conference."
+Component-Whole(e1,e2)
+
+093 "If you follow the instructions you should be able to remove the <e1>virus</e1> from <e2>infected documents</e2>."
+Component-Whole(e1,e2)
+
+094 "<e1>Regulation</e1> of <e2>food</e2> in the United States dates from early colonial times."
+Component-Whole(e1,e2)
+
+095 "Starting with DirectWIRE 3.0, you can connect <e1>multiple wires</e1> into a <e2>single input</e2>."
+Component-Whole(e1,e2)
+
+096 "The <e1>mountains</e1> of the <e2>peninsula</e2> can receive substantial rains and periodically, large amounts of water are washed down the river beds."
+Component-Whole(e1,e2)
+
+097 "Within the last decade, <e1>biology</e1> joined the <e2>club</e2>, following the traditions for providing a solid foundation of scientific investigation."
+Component-Whole(e1,e2)
+
+098 "Interestingly, the <e1>gastritis</e1> is not found in <e2>wild cheetahs</e2>."
+Component-Whole(e1,e2)
+
+099 "National organization devoted to defending the <e1>teaching</e1> of <e2>evolution</e2> in public schools, and keeping creationism out."
+Component-Whole(e1,e2)
+
+100 "And she added a <e1>question mark</e1> to complete the <e2>paragraph</e2>."
+Component-Whole(e1,e2)
+
+101 "This is in part due to the vast <e1>number</e1> of <e2>contexts</e2> in which the solutions are needed and that the central standards group is too small to capture solutions."
+Component-Whole(e1,e2)
+
+102 "The letters are not painted on top of the stone, but actually engraved into the <e1>granite</e1> <e2>stone</e2>."
+Component-Whole(e1,e2)
+
+103 "Beware of the <e1>danger</e1> in <e2>running waters</e2>."
+Component-Whole(e1,e2)
+
+104 "When the first transplant took place at St. Paul's in 1986, the vast majority of <e1>patients</e1> received a new <e2>kidney</e2> from a deceased donor."
+Component-Whole(e2,e1)
+
+105 "In addition to the preparation of the road condition report, the <e1>police</e1> <e2>dispatchers</e2> are responsible for several other critical functions."
+Component-Whole(e1,e2)
+
+106 "The lab added Hypo-allergenic plant <e1>fiber</e1> to complete the <e2>capsule volume requirement</e2>."
+Component-Whole(e1,e2)
+
+107 "Original <e1>works</e1> of <e2>authorship</e2> were fixed in a tangible medium of expression."
+Component-Whole(e1,e2)
+
+108 "Points attached with caps are simply slid snugly over the <e1>end</e1> of the <e2>shaft</e2>."
+Component-Whole(e1,e2)
+
+109 "So what I did, I wrote about my brother Allie's <e1>baseball</e1> <e2>mitt</e2>."
+Component-Whole(e1,e2)
+
+110 "In contrast with tofu, which is made with soymilk, this <e1>dish</e1> is made with <e2>whole soybeans</e2>, making it a good source of fiber."
+Component-Whole(e2,e1)
+
+111 "These are the <e1>realities</e1> of <e2>racism</e2> in Britain."
+Component-Whole(e1,e2)
+
+112 "People who work in mines may be exposed to radon and, in some parts of the country, <e1>radon</e1> is found in <e2>houses</e2>."
+Component-Whole(e1,e2)
+
+113 "The <e1>women</e1>'s <e2>chorus</e2> of Dallas is one of the nation's finest women's choruses."
+Component-Whole(e1,e2)
+
+114 "Gates varied in width because there are 25 different <e1>widths</e1> of <e2>walkways</e2> in Central Park."
+Component-Whole(e1,e2)
+
+115 "Rattles also wear out or break off, so it is unusual to find an adult <e1>snake</e1> with 10 <e2>rattles</e2>."
+Component-Whole(e2,e1)
+
+116 "<e1>Tyramine</e1> is found in <e2>aged, fermented and spoiled food products</e2>."
+Component-Whole(e1,e2)
+
+117 "Beautifully packaged in faux <e1>velvet</e1> <e2>tray</e2> and boxed for giving, as complete remembrance of this important milestone."
+Component-Whole(e1,e2)
+
+118 "The Cleveland Cavaliers envision an <e1>arena</e1> full of cheering <e2>fans</e2> with no tickets in their pockets."
+Component-Whole(e2,e1)
+
+119 "Due to the large <e1>mass</e1> of the <e2>books</e2>, the force of the hammer is sufficiently resisted (inertia)."
+Component-Whole(e1,e2)
+
+120 "The <e1>bunny</e1> <e2>rabbits</e2> are coming."
+Component-Whole(e1,e2)
+
+121 "And now let's look at the other <e1>side</e1> of the <e2>story</e2>."
+Component-Whole(e1,e2)
+
+122 "I'll tell you what <e1>kind</e1> of <e2>red hair</e2> he had."
+Component-Whole(e1,e2)
+
+123 "The <e1>door</e1> does not open inside the <e2>house</e2>, but outside, towards the person who wants to get in."
+Component-Whole(e1,e2)
+
+124 "Nor is a criminal filled with demons you can exorcise by thrashing them like a <e1>carpet</e1> full of <e2>dust</e2>."
+Component-Whole(e2,e1)
+
+125 "<e1>Words</e1> not present in <e2>dictionaries</e2> are almost always found in unrestricted texts."
+Component-Whole(e1,e2)
+
+126 "Economists blame increased U.S. <e1>production</e1> of <e2>ethanol</e2> from corn as an alternative to oil."
+Component-Whole(e1,e2)
+
+127 "<e1>Tumors</e1> growing in these <e2>fibrinogen-deficient mice</e2> did not attract the CREKA peptide."
+Component-Whole(e1,e2)
+
+128 "The Group's influence was so widespread by the end of 1931 that they no longer found it necessary to continue as a <e1>group</e1> of <e2>painters</e2>."
+Component-Whole(e2,e1)
+
+129 "First, the <e1>gift</e1> <e2>cards</e2> are on the thin side and are glossy."
+Component-Whole(e1,e2)
+
+130 "Ban Ki-moon calls for probe into <e1>murder</e1> of <e2>peacekeeper</e2> in southern Sudan."
+Component-Whole(e1,e2)
+
+131 "Let's say <e1>women</e1> in the <e2>tribe</e2> who have the longest necks are the most desirable."
+Component-Whole(e1,e2)
+
+132 "Is there anything like <e1>peanut butter</e1> but not high in <e2>calories</e2>?"
+Component-Whole(e2,e1)
+
+133 "Besides the ash texture, it is also important that shape of the burning <e1>end</e1> of the <e2>cigar</e2> is exposed after the ash has fallen off."
+Component-Whole(e1,e2)
+
+134 "For example, this obviously holds in the case of the <e1>marble</e1> <e2>slab</e2> of the table and local variation of temperature."
+Component-Whole(e1,e2)
+
+135 "An aqueous triethylamine (0.1 mol/l) <e1>solution</e1> was added to the <e2>acid precipitate</e2> until pH 6 was reached."
+Component-Whole(e1,e2)
+
+136 "Prince Edward Island submitted a design with a <e1>garland</e1> of <e2>roses</e2> and shamrock."
+Component-Whole(e1,e2)
+
+137 "As viewed by a worshiper seated among the congregation, there are two speaker's stands on either <e1>side</e1> of the <e2>front</e2> of the church."
+Component-Whole(e1,e2)
+
+138 "This new <e1>edition</e1> of the <e2>journal</e2> contains forty new entries ranging from such diverse topics."
+Component-Whole(e1,e2)
+
+139 "The mountains of the peninsula can receive substantial rains and periodically, large <e1>amounts</e1> of <e2>water</e2> are washed down the river beds."
+Component-Whole(e1,e2)
+
+140 "This is a new tool to enhance <e1>role</e1> of <e2>pharmacists</e2> in health care."
+Component-Whole(e1,e2)
+
+001 "We provide test preparers with a <e1>platform</e1> for populating a <e2>bank</e2> of questions during the course of the year."
+Other
+
+002 "Multiple reports of a man caught spying in the residence halls, women's showers have the UW Police Department (UWPD) on the <e1>lookout</e1> for a <e2>peeping tom</e2>. "
+Other
+
+003 "It is a <e1>method</e1> for the <e2>solution</e2> of roots of a nonlinear equation and for solution of the general eigenvalue problem."
+Other
+
+004 "It is a <e1>method</e1> for the comprehensive proteomic <e2>analysis</e2> of membrane proteins."
+Other
+
+005 "11-year-olds' entire <e1>plan</e1> for night is to smoke <e2>cigarettes</e2>."
+Other
+
+006 "The <e1>port</e1> <e2>scanner</e2> is a utility to scan a system to get the status of the TCP."
+Other
+
+007 "Tor is a <e1>toolset</e1> for a wide range of <e2>organizations</e2> and people that want to improve their safety and security on the Internet."
+Other
+
+008 "The <e1>submission</e1> <e2>deadline</e2> is February, 2, 2007."
+Other
+
+009 "DomainKeys provide a <e1>mechanism</e1> for verifying the <e2>identity</e2> of an email sender in order to solve common spamming techniques such as forgery and spoofing."
+Other
+
+010 "It is a <e1>method</e1> for solving a system of <e2>equations</e2>."
+Other
+
+011 "My <e1>proposal</e1> is to concentrate on green <e2>energy</e2>."
+Other
+
+012 "Mayor has a <e1>proposal</e1> for a Suffolk <e2>campus</e2>."
+Other
+
+013 "The <e1>outage</e1> was for <e2>reconfiguration</e2> of the new replica database."
+Other
+
+014 "The natural, semantic <e1>way</e1> to express this <e2>information</e2> is to add an attribute."
+Other
+
+015 "Attocube systems AG, one of the leading suppliers of nanopositioning devices for extreme environments, has been nominated today as a <e1>finalist</e1> for the <e2>award</e2>."
+Other
+
+016 "My sole <e1>desire</e1> was to write a <e2>book</e2> on black veterans using their words."
+Other
+
+017 "The computer may execute the malicious program as soon as the <e1>email</e1> <e2>message</e2> is viewed."
+Other
+
+018 "A <e1>process</e1> for obtaining a free research use <e2>license</e2> has been established through the University of Illinois Office of Technology Management."
+Other
+
+019 "Taken in total, the <e1>case</e1> for prosecuting the former <e2>members</e2> of the Symbionese Liberation Army for taking Myrna Opsahl's life is irrefutable."
+Other
+
+020 "The <e1>domain</e1> is for <e2>sale</e2>."
+Other
+
+021 "Both parents should get a tax <e1>exemption</e1> for the <e2>children</e2>."
+Other
+
+022 "My <e1>sin</e1> was to write a <e2>screenplay</e2> accurately depicting Bill Clinton's record on terrorism. "
+Other
+
+023 "The hyperlink is coded so that the <e1>text</e1> <e2>description</e2> is a full URL."
+Other
+
+024 "The <e1>process</e1> for obtaining a <e2>visa</e2> depends on what type of visa you are eligible for."
+Other
+
+025 "This is how much a <e1>recommendation</e1> for a <e2>product</e2> is worth in financial terms."
+Other
+
+026 "The <e1>projection</e1> was for <e2>revenue</e2> of $6.4 billion and earnings per share of 78 cents."
+Other
+
+027 "Another <e1>reason</e1> is to get extremely high energy <e2>densities</e2> in collisions of matter and antimatter."
+Other
+
+028 "These <e1>criteria</e1> are used for determining chart <e2>position</e2> for Songs, CDs and Artists."
+Other
+
+029 "When the <e1>decision</e1> of the CAMPEP is for continued <e2>accreditation</e2>, the program director is notified in a letter that includes all suggestions."
+Other
+
+030 "This is a <e1>methodology</e1> for accrediting a commercial distributed <e2>database</e2>."
+Other
+
+031 "Requesting a lock on a resource requires contacting the <e1>server</e1> responsible for granting the <e2>lock</e2>."
+Other
+
+032 "This publication details the <e1>procedure</e1> for filing a <e2>complaint</e2> under title III of the ADA."
+Other
+
+033 "Thus, while today we need the expansion of localized cultural practices, they attain their real significance only within the <e1>struggle</e1> for the <e2>transformation</e2> of society as a whole."
+Other
+
+034 "This would seem to suggest that Hizzoner is on the <e1>hunt</e1> for a new <e2>team</e2>."
+Other
+
+035 "In most part, it was another a <e1>plea</e1> for the <e2>status quo</e2> and also for patience."
+Other
+
+036 "This <e1>form</e1> is used for filing an initial financing <e2>statement</e2>."
+Other
+
+037 "For the Cartesian kernels there is only one number <e1>type</e1> that is used for all <e2>calculations</e2>."
+Other
+
+038 "It is a <e1>method</e1> for assessing the statistical <e2>significance</e2> of RNA folding."
+Other
+
+039 "Laser profiling is a <e1>technique</e1> for the <e2>study</e2> of prosthetic heart valve leaflet motion."
+Other
+
+040 "I mentioned some time ago that our <e1>tendency</e1> is to regard <e2>sin</e2> as the reality."
+Other
+
+041 "The predictions presented at this NASA 2004 Transit of Venus web site are provided as a <e1>resource</e1> for the <e2>public</e2>."
+Other
+
+042 "The <e1>program</e1> is for encryption of the <e2>information</e2>."
+Other
+
+043 "News from the Caravan posts a <e1>recipe</e1> for <e2>manti</e2>, a dish made in not just Kazakhstan, but also in the rest of Central Asia, Mongolia, and Turkey."
+Other
+
+044 "The <e1>appointment</e1> is for a three-year <e2>term</e2>, during which Robillard will remain dean of Carver College of Medicine."
+Other
+
+045 "The <e1>revocation</e1> was for <e2>failure</e2> to maintain regular business hours."
+Other
+
+046 "We need a description of the bug and a <e1>recipe</e1> for recreating the <e2>bug</e2> reliably."
+Other
+
+047 "It is a <e1>euphemism</e1> for overthrowing a hostile foreign <e2>government</e2>."
+Other
+
+048 "Rather, the <e1>preference</e1> was for the <e2>foods</e2> that contain it."
+Other
+
+049 "A grantee may appeal this decision only if the <e1>withholding</e1> was for the grantee's <e2>failure</e2> to comply with the terms and conditions of a previous award."
+Other
+
+050 "Our <e1>hope</e1> is to extend this <e2>framework</e2> into reusable behaviors and UI widgets."
+Other
+
+051 "The <e1>idea</e1> was to connect <e2>hypertext</e2> with the Internet and personal computers."
+Other
+
+052 "The <e1>web</e1> <e2>service</e2> is reasonably well-documented here."
+Other
+
+053 "This led them to believe the <e1>eviction</e1> was for private <e2>development</e2>."
+Other
+
+054 "The present invention refers to a <e1>device</e1> for actuating a <e2>membrane</e2> arranged in an opening to a space."
+Other
+
+055 "The <e1>intent</e1> of the fourteenth amendment was to protect all <e2>rights</e2>."
+Other
+
+056 "They discussed the impact of their critical meetings held in the wake of India's 1998 nuclear tests, ultimately laying the <e1>groundwork</e1> for the current <e2>movement</e2> to build a firm strategic relationship between India and the United States."
+Other
+
+057 "Unhappy with Beno Udrih, the Spurs are on the <e1>prowl</e1> for a more dependable two-way, pass-and-shoot point <e2>guard</e2>."
+Other
+
+058 "The latest polls earlier this year showed that 87% of Iraqis support a <e1>request</e1> for setting a <e2>timetable</e2> for pulling out the occupation troops."
+Other
+
+059 "Technical peeves aside, the <e1>value</e1> of the Semantic Web is to solve real <e2>problems</e2> in communication."
+Other
+
+060 "The <e1>objective</e1> was for a tough <e2>week</e2> leading up to the trip to the US, and we certainly got that."
+Other
+
+061 "We're honored to be chosen as a <e1>finalist</e1> for a CODiE <e2>award</e2> by the esteemed panel of judges."
+Other
+
+062 "According to a <e1>spokeswoman</e1> for the Israeli <e2>army</e2>, factories in the Bekaa Valley were targeted because of suspicions that they were storing weapons."
+Other
+
+063 "It is a parallel <e1>algorithm</e1> for reconfiguring a multibutterfly <e2>network</e2> with faulty switches."
+Other
+
+064 "This is a <e1>framework</e1> for querying a <e2>database</e2> for structural information on 3D images of macromolecules."
+Other
+
+065 "And part of the <e1>job</e1> of the team member is to assist <e2>newcomers</e2>."
+Other
+
+066 "It is the <e1>blueprint</e1> for a design <e2>revolution</e2>."
+Other
+
+067 "A feel for numbers, and a <e1>passion</e1> for achieving a quantitative <e2>understanding</e2> of complex interactions is needed."
+Other
+
+068 "It is a <e1>plugin</e1> for navigating the <e2>file system</e2>."
+Other
+
+069 "One <e1>strategy</e1> for combating phishing is to train <e2>users</e2> to deal with phishing."
+Other
+
+070 "The <e1>objective</e1> of this tender is to provide a service <e2>contract</e2>."
+Other
+
+071 "They use the dog park as a <e1>substitute</e1> for the <e2>walk</e2>."
+Other
+
+072 "Yet the <e1>nomination</e1> was for original <e2>music</e2>."
+Other
+
+073 "The <e1>audition</e1> was for a small <e2>part</e2> in Where the Heart Is."
+Other
+
+074 "The Web's main <e1>virtue</e1>, in handling data, is to transmute <e2>organization</e2> from an a priori, content-based judgment to one that can be ad hoc, context-based, socially embedded, and constantly altered."
+Other
+
+075 "The <e1>table</e1> is used for <e2>layout</e2>, and does not use any structural markup for the purpose of visual formatting."
+Other
+  
+076 "This <e1>form</e1> is used for background <e2>clearance</e2> and record keeping purposes."
+Other
+
+077 "Pin is a <e1>tool</e1> for the dynamic <e2>instrumentation</e2> of programs."
+Other
+
+078 "The obvious <e1>solution</e1> was to standardize on Microsoft Office <e2>software</e2>."
+Other
+
+079 "The <e1>forecast</e1> is for slightly higher <e2>temperatures</e2>."
+Other
+
+080 "This <e1>manual</e1> is for the serious <e2>user</e2> of the GNU Image Manipulation Program."
+Other
+
+081 "The <e1>forecast</e1> was for surprisingly good <e2>weather</e2> up until midnight."
+Other
+
+082 "This insures appropriately fresh data is displayed if, for example, the <e1>prefetch</e1> is for a banner <e2>ad</e2> to a URL whose content changes with each request."
+Other
+
+083 "<e1>Sulfur</e1> is used for cooling and insulating of some high-voltage power <e2>systems</e2>."
+Other
+
+084 "We clicked the <e1>thumbnail</e1> for a <e2>preview</e2> of the theme."
+Other
+
+085 "This is a poor <e1>recipe</e1> for a <e2>transformation</e2> for either discipline."
+Other
+
+086 "The <e1>intent</e1> was for the occupying powers to govern the <e2>country</e2> together inside the 1947 borders."
+Other
+
+087 "The predominant <e1>approach</e1> is to select one or two primary <e2>languages</e2> and use them for the company-wide features and content."
+Other
+
+088 "It is a <e1>method</e1> for transposing a <e2>matrix</e2>."
+Other
+
+089 "The <e1>purpose</e1> of CellML is to store and exchange computer-based mathematical <e2>models</e2>."
+Other
+
+090 "It is behind the <e1>hunt</e1> for the Higgs <e2>boson</e2>."
+Other
+
+091 "But socialism, far from being 'finished', will once again become the idea that guides workers and youth in the <e1>struggle</e1> for a new <e2>society</e2>."
+Other
+
+092 "These functions were designed to steal a reference because of a common <e1>idiom</e1> for populating a <e2>tuple</e2> or list with newly created objects."
+Other
+
+093 "The Psychological Autopsy is a <e1>technique</e1> for investigating a hospital <e2>suicide</e2>."
+Other
+
+094 "The <e1>data</e1> is used for <e2>analysis</e2>, including knowledge of the visitor's identity."
+Other
+
+095 "The <e1>purpose</e1> of this Guide is to provide you with a general <e2>roadmap</e2> of some of the legal issues specific to podcasting."
+Other
+
+096 "In Louisiana, more than 50 times more <e1>water</e1> is used for <e2>fish</e2> farming than is used for animals that produce meat, poultry, and milk."
+Other
+
+097 "This is a <e1>quest</e1> for a <e2>way</e2> around aging."
+Other
+
+098 "The <e1>workshop</e1> is for all <e2>people</e2> involved in the management of institutional Web services."
+Other
+
+099 "We suggest using a <e1>blog</e1> for a Web 2.0 <e2>presentation</e2> instead of PowerPoint."
+Other
+
+100 "Fourteen trades later, he made his stated goal, which was to trade a <e1>paperclip</e1> for a <e2>house</e2>."
+Other
+
+101 "Contact information and financial <e1>information</e1> are kept private and is used for no other <e2>purpose</e2> than what is indicated above."
+Other
+
+102 "It is a <e1>device</e1> for aligning a <e2>pinhole</e2> with a microscope objective."
+Other
+
+103 "The family as a <e1>model</e1> for the <e2>organization</e2> of the state is a theory in political philosophy."
+Other
+
+104 "The provisions of the <e1>proposal</e1> for a <e2>directive</e2> also run counter to the case."
+Other
+
+105 "The <e1>appointment</e1> was for more than one <e2>year</e2>, so the recommendation discussed evidence to date of the candidate's teaching."
+Other
+
+106 "A Justice Department lawyer may have been laying the <e1>groundwork</e1> for the Iraq <e2>invasion</e2> long before it was discussed publicly by the White House."
+Other
+
+107 "LANDIS & STAEFA, INC. is awarded a <e1>contract</e1> for supplying the <e2>city</e2> of Seattle."
+Other
+
+108 "The governor general of the Turkish province of Van, Mehmet Niyazi Tanilir, here Saturday said that the joint border of Iran and Turkey was a <e1>model</e1> for the <e2>world</e2>."
+Other
+
+109 "The <e1>programming</e1> <e2>staff</e2> is responsible for developing agency wide policies."
+Other
+
+110 "An escalation <e1>factor</e1> is used for <e2>salaries</e2>, stipends, and other direct costs."
+Other
+
+111 "A focus on convenience and knowledgeable service has enabled the 4,600-store chain to stake out a modest but healthy share of the huge hardware market, providing the <e1>impetus</e1> for the biggest new-store <e2>expansion</e2> in its history."
+Other
+
+112 "Our <e1>mission</e1> in Iraq was to win the <e2>war</e2>. "
+Other
+
+113 "Binary insertion sort <e1>algorithm</e1> is used for small <e2>lists</e2>."
+Other
+
+114 "This is a gravity assist or a <e1>swingby</e1> for a <e2>spacecraft</e2>."
+Other
+
+115 "Sheehan also announced at the signing that she's a <e1>finalist</e1> for the <e2>prize</e2>. "
+Other
+
+116 "In 2006, the World Wide Web became a <e1>tool</e1> for bringing together the small <e2>contributions</e2> of millions of people and making them matter."
+Other
+
+117 "These are the <e1>requirements</e1> for a full <e2>refund</e2> of the security deposit."
+Other
+
+118 "Nothing wrong with this if the <e1>goal</e1> was for students to acquire <e2>knowledge</e2>."
+Other
+
+119 "The <e1>formula</e1> for calculating the top rated 250 <e2>titles</e2> gives a true Bayesian estimate."
+Other
+
+120 "Terrorists' <e1>aim</e1> is to influence presidential <e2>vote</e2>."
+Other
+
+121 "The entry into force of Protocol 14 to the Convention is a <e1>prerequisite</e1> for the <e2>reforms</e2> proposed by the Group of Wise Persons."
+Other
+
+122 "This <e1>parser</e1> is used for parsing <e2>lists</e2> of comma or space separated SVG lengths."
+Other
+
+123 "Many tons of <e1>paper</e1> are used for printing <e2>tickets</e2>."
+Other
+
+124 "U.S. policy decisions over the past several years, have helped to lay the <e1>groundwork</e1> for the latest round of <e2>talks</e2>, she said."
+Other
+
+125 "It is a <e1>tool</e1> for visualizing the <e2>topology</e2> of three-dimensional vector fields."
+Other
+
+126 "This public key <e1>algorithm</e1> is used for encrypting <e2>emails</e2>."
+Other
+
+127 "The first three arguments will set the environment variable object_is_image if the <e1>request</e1> was for an image <e2>file</e2>."
+Other
+
+128 "The <e1>election</e1> for the two Legislative Yuan <e2>posts</e2> is scheduled for February 1."
+Other
+
+129 "The largest <e1>cutback</e1> was for <e2>projects</e2> in the Canadian region."
+Other
+
+131 "I've heard the <e1>stock</e1> <e2>market</e2> is making a recovery but it's a bit early to invest my money."
+Other
+
+132 "The Office serves as the <e1>secretariat</e1> for the General Assembly's only <e2>committee</e2> dealing exclusively with international cooperation in the peaceful uses of space."
+Other
+
+133 "We want to assist the Iraqi government in establishing the <e1>foundations</e1> for a sound <e2>economy</e2> with the capacity to deliver essential services."
+Other
+
+134 "The judge held that the circuit court did not err, in light of the fact that the <e1>conviction</e1> was for felony <e2>murder</e2>, and given the weight of eyewitness testimony."
+Other
+
+135 "The Federation is the <e1>voice</e1> for the <e2>humanities</e2> and social science researchers."
+Other
+
+136 "The committee was instructed to come up with a document that can actually serve as a <e1>basis</e1> for a <e2>treaty</e2>."
+Other
+
+137 "This angle <e1>convention</e1> is used for self-rotation <e2>functions</e2>."
+Other
+
+138 "The <e1>award</e1> was for his outstanding <e2>contribution</e2> to enterprise."
+Other
+
+139 "The <e1>funeral</e1> was for Hakim Taniwal, a tribal elder and provincial <e2>governor</e2> who was killed in a suicide attack outside his office on Sunday."
+Other
+
+140 "The <e1>mission</e1> of the SETI Institute is to explore, understand and explain the origin, nature and prevalence of <e2>life</e2> in the universe."
+Other
+
+001 "The <e1>physician bill</e1> is from the <e2>physician</e2> who provided your care during your hospital stay or the physician who read and interpreted your test results."
+Entity-Origin(e1,e2)
+
+002 "How can you prove that a <e1>gas</e1> takes up <e2>space</e2>?"
+Entity-Origin(e1,e2)
+
+003 "Data managers and vendors learned the value of sharing and reusing <e1>resources</e1> from a <e2>common repository</e2> decades ago."
+Entity-Origin(e1,e2)
+
+004 "She said that he described the meeting with her as an exception, since 'he does not normally have meetings directly with <e1>engineers</e1> from the <e2>regions</e2>.'"
+Entity-Origin(e1,e2)
+
+005 "<e1>Cinnamon oil</e1> is distilled from <e2>bark chips</e2> and used to alleviate stomach upsets."
+Entity-Origin(e1,e2)
+
+006 "The <e1>move</e1> from <e2>binary access</e2> (yes or no) to fine-grained authorization betrays a shift in mindset: from a defensible perimeter to a qualifier that identifies who can access what room."
+Entity-Origin(e1,e2)
+
+007 "The <e1>person</e1> providing the <e2>alibi</e2> could be the culprit and would be providing a fabricated alibi."
+Entity-Origin(e2,e1)
+
+008 "Over the top of the hill was a <e1>fairly-decent refugee camp</e1> from a <e2>war</e2> that has never really ended."
+Entity-Origin(e1,e2)
+
+009 "An opening is present in the diaphragm (the muscle that separates the <e1>chest cavity</e1> from the <e2>abdominal cavity</e2>)."
+Entity-Origin(e1,e2)
+
+010 "For projects submitted at national level, the <e1>volunteer</e1> is sent by a <e2>sending organization</e2> legally established in his/her country of residence."
+Entity-Origin(e2,e1)
+
+011 "You move the direction the <e1>mouse</e1> is from the <e2>crosshair</e2>."
+Entity-Origin(e1,e2)
+
+012 "If the <e1>cited document</e1> is from the <e2>informative bibliography</e2>, the bibliographic number should be provided in the text and enclosed with brackets."
+Entity-Origin(e1,e2)
+
+013 "When Josh visits the Tatums, Josh meets his blonde haired twin cousin and two beautiful <e1>country</e1> <e2>cousins</e2>."
+Entity-Origin(e2,e1)
+
+014 "The <e1>challenges</e1> are being addressed from a <e2>manufacturing standpoint</e2> rather than ICT solutions that could answer them."
+Entity-Origin(e1,e2)
+
+015 "It's unfortunate you didn't try a <e1>potato</e1> <e2>vodka</e2>."
+Entity-Origin(e2,e1)
+
+016 "The <e1>tests</e1> are generated randomly from a <e2>bank</e2> of questions developed for each module."
+Entity-Origin(e1,e2)
+
+017 "The <e1>algorithm</e1> generates <e2>provable primes</e2> rather than only probable primes and is nevertheless faster than the known algorithms based on pseudo-primality."
+Entity-Origin(e2,e1)
+
+018 "Suddenly a <e1>nurse</e1> takes off <e2>her familiar loose-fitting clothes</e2>, and dresses her in clothes, which fit her more closely."
+Entity-Origin(e2,e1)
+
+019 "The guarantees so painfully obtained by formal verification of the source program are useless if the <e1>compiler</e1> generates <e2>wrong code</e2>."
+Entity-Origin(e2,e1)
+
+020 "Not sure what brand of model it came from but the <e1>wings</e1> are from a <e2>trashed plane</e2> my buddy had."
+Entity-Origin(e1,e2)
+
+021 "After successful completion of the comprehensives, the <e1>candidate</e1> writes a <e2>dissertation proposal</e2>."
+Entity-Origin(e2,e1)
+
+022 "The <e1>construction</e1> gives a <e2>refinement</e2> of Nori's argument in the case of a self-product of a curve."
+Entity-Origin(e2,e1)
+
+023 "It often becomes necessary to delete <e1>objects</e1> from the <e2>chart</e2> during the course of monitoring system performance."
+Entity-Origin(e1,e2)
+
+024 "First, the <e1>sound</e1> radiated from a <e2>surface</e2> simulating a two-dimensional monopole is calculated using an unstructured mesh."
+Entity-Origin(e1,e2)
+
+025 "The date for final payment is shown on the <e1>confirmation</e1> <e2>invoice</e2>."
+Entity-Origin(e2,e1)
+
+026 "The <e1>taste</e1> is from the <e2>ginseng</e2>, not alcohol."
+Entity-Origin(e1,e2)
+
+027 "Find the <e1>infinitive</e1> from the <e2>participle</e2>."
+Entity-Origin(e1,e2)
+
+028 "Most <e1>cane</e1> <e2>sugar</e2> comes from countries with warm climates, such as Brazil, Pakistan, India, China and Australia."
+Entity-Origin(e2,e1)
+
+029 "The following are <e1>verbatim excerpts</e1> from a <e2>lengthy article</e2>."
+Entity-Origin(e1,e2)
+
+030 "The <e1>systolic murmur</e1> radiated to <e2>both carotid arteries</e2>."
+Entity-Origin(e1,e2)
+
+031 "From the diagrams of DaVinci to Hooke's microscopic bestiary, the beaks of Darwin's finches, Rosalind Franklin's x-rays or the <e1>latest photographic marvels</e1> retrieved from the <e2>remotest galactic outback</e2>, visualization of research has a long and literally illustrious history."
+Entity-Origin(e1,e2)
+
+032 "A pop-up roll cage and active headrests aim to protect occupants during a rollover, and the <e1>floorboard</e1> is made from <e2>bamboo</e2> and aluminum."
+Entity-Origin(e1,e2)
+
+033 "These early Bristol recordings laid the groundwork for much of the <e1>country</e1> <e2>music</e2> that followed."
+Entity-Origin(e2,e1)
+
+034 "The curricular requirements for an engineering degree can be satisfied in four years of study by completing 14 to 18 credits of work each semester, but many <e1>students</e1> deviate from the <e2>ideal curricula</e2> presented in a later section of this bulletin."
+Entity-Origin(e1,e2)
+
+035 "He was a <e1>young refugee</e1> on the run from a <e2>nation</e2> at war."
+Entity-Origin(e1,e2)
+
+036 "They are taking the <e1>brains</e1> from <e2>babies</e2>."
+Entity-Origin(e1,e2)
+
+037 "Eventually the <e1>company</e1> manufactured the <e2>machines</e2>."
+Entity-Origin(e2,e1)
+
+038 "By the early '90s, Indian entrepreneurs bought a majority of the properties and flourished with the new <e1>immigrants</e1> from the <e2>subcontinent</e2>."
+Entity-Origin(e2,e1)
+
+039 "The mesopause separates the <e1>mesosphere</e1> from the <e2>thermosphere</e2>."
+Entity-Origin(e1,e2)
+
+040 "Beauty had scarcely uttered these words when the <e1>castle</e1> radiated with <e2>light</e2>."
+Entity-Origin(e2,e1)
+
+041 "Effective <e1>canola</e1> <e2>production</e2> requires hands-on involvement with the crop."
+Entity-Origin(e2,e1)
+
+042 "Download all the <e1>images</e1> from a <e2>website</e2> with a single click!"
+Entity-Origin(e1,e2)
+
+043 "The <e1>bytecodes</e1> compiled from a <e2>nonoptimized control structure</e2> are illustrated by the following hypothetical method in Collection."
+Entity-Origin(e1,e2)
+
+044 "Recruiting <e1>talented computer scientists</e1> from <e2>underrepresented communities</e2> is important to current and future workforce needs of the Computation Directorate as well as the Laboratory as a whole."
+Entity-Origin(e1,e2)
+
+046 "The <e1>email</e1> is received from a <e2>wealthy, dying person</e2> wanting to get their money out of the country."
+Entity-Origin(e1,e2)
+
+047 "The <e1>backup vocals</e1> are from a <e2>rather talented female</e2>, Stephanie Eitel."
+Entity-Origin(e1,e2)
+
+048 "With five of the six classes being a single credit hour and the sixth being three credit hours of capstone design, sophomores, juniors, and seniors work directly with medical doctors, nurses, graduate students, Ph.D.'s, and <e1>engineers</e1> from the <e2>medical industry</e2>."
+Entity-Origin(e1,e2)
+
+049 "Learning to change your vehicle's <e1>engine</e1> <e2>oil</e2> can save you time and money."
+Entity-Origin(e2,e1)
+
+050 "The <e1>light</e1> in the background is from the <e2>sunrise</e2>."
+Entity-Origin(e1,e2)
+
+051 "The <e1>basement carpeting</e1> is made from <e2>recycled plastic pop bottles</e2>, and the underpad was once automobile tires."
+Entity-Origin(e1,e2)
+
+052 "In Europe the <e1>fuel</e1> is distilled from <e2>canola oil</e2>."
+Entity-Origin(e1,e2)
+
+054 "They understand the <e1>stakes</e1> from a <e2>personal perspective</e2>, as well, since the extremists have tried to assassinate them."
+Entity-Origin(e1,e2)
+
+055 "When deliberations began, the <e1>crowd</e1> of people jamming the hallways radiated <e2>optimism</e2>."
+Entity-Origin(e2,e1)
+
+056 "We're always looking for <e1>feedback</e1> from <e2>readers</e2> and articles to highlight."
+Entity-Origin(e1,e2)
+
+057 "Is it really possible to build the <e1>tree</e1> from a <e2>database</e2>?"
+Entity-Origin(e1,e2)
+
+058 "Fruit juice has all the <e1>fruit</e1> <e2>sugar</e2> and none of the fruit fiber, and only some of the fruit nutrients."
+Entity-Origin(e2,e1)
+
+059 "Does the <e1>product</e1> emit <e2>radiation</e2>?"
+Entity-Origin(e2,e1)
+
+060 "A couple of spoonsful would have been mixed with water to create a sweet and tart drink, the fruit providing the flavor and color, the <e1>sugar</e1> providing the <e2>sweetness</e2>, and the vinegar providing the tartness."
+Entity-Origin(e2,e1)
+
+061 "Now if the Bagger can just get some <e1>popcorn</e1> from <e2>room service</e2>, he'll be all set."
+Entity-Origin(e1,e2)
+
+062 "Orpheus falls in love with the <e1>country</e1> <e2>girl</e2> for no apparent reason save her name and beauty."
+Entity-Origin(e2,e1)
+
+063 "If the <e1>notice</e1> is sent by <e2>fax</e2>, the notice is not deemed received until 3 days after faxing it."
+Entity-Origin(e2,e1)
+
+064 "This is the <e1>winning sand castle</e1> from the Castlemania <e2>contest</e2>."
+Entity-Origin(e1,e2)
+
+065 "The customers are happy and the <e1>marketer</e1> generates <e2>more income</e2> from the sales of his vehicles - everyone wins."
+Entity-Origin(e2,e1)
+
+066 "To prevent <e1>students</e1> from <e2>informing</e2> their peers what questions are in the quiz, the questions are randomly selected from a large, pre-prepared question bank."
+Entity-Origin(e1,e2)
+
+068 "The <e1>outer shell</e1> is made from <e2>anodized aluminum</e2>."
+Entity-Origin(e1,e2)
+
+069 "<e1>Sunflower</e1> <e2>oil</e2> is obtained by extracting oil from sunflower seeds."
+Entity-Origin(e2,e1)
+
+070 "The word <e1>naughtiness</e1> is derived from a <e2>word</e2> meaning worthless."
+Entity-Origin(e1,e2)
+
+071 "So you are not only sharing the speaker information, but you are also sharing the <e1>audio</e1> from the <e2>event</e2> quickly and easily."
+Entity-Origin(e1,e2)
+
+072 "Lowering your <e1>blood</e1> <e2>sugar</e2> is the key to managing diabetes."
+Entity-Origin(e2,e1)
+
+073 "The 3 km long <e1>beach</e1> extends from the <e2>mouth</e2> of the Oro River in the west, to the cliffs of Point Caramonal to the southeast."
+Entity-Origin(e1,e2)
+
+074 "On the other hand, <e1>gin</e1> is distilled from a <e2>neutral grain spirit</e2>, which is then infused with juniper and a host of other botanicals."
+Entity-Origin(e1,e2)
+
+075 "What did the residents and <e1>scientists</e1> learn from the Krakatau <e2>explosion</e2>?"
+Entity-Origin(e1,e2)
+
+076 "Where credit is granted, the <e1>supplier</e1>'s <e2>invoice</e2> will be payable within 30 days."
+Entity-Origin(e2,e1)
+
+077 "It seems quite clear, therefore, that the <e1>claimant</e1>'s <e2>allegation</e2> of a lung condition is not substantiated by any of the reporting physicians of record."
+Entity-Origin(e2,e1)
+
+078 "Retailers should report the income from a coupon's face value and its related handling fee at the time the <e1>coupon</e1> is received from the <e2>customer</e2>."
+Entity-Origin(e1,e2)
+
+079 "Different from the curry source, <e1>chicken bouillon</e1> is mainly distilled from <e2>chicken</e2>."
+Entity-Origin(e1,e2)
+
+080 "When the <e1>invoice</e1> is received from a <e2>vendor</e2>, you should verify that you have only been charged for goods or services that were ordered and received."
+Entity-Origin(e1,e2)
+
+081 "The <e1>clear spirit</e1> is distilled from <e2>fresh grain</e2>."
+Entity-Origin(e1,e2)
+
+082 "I'm assuming that the <e1>criticism</e1> is from the <e2>publisher side</e2>."
+Entity-Origin(e1,e2)
+
+083 "The flavour and colour depend on the plants from which the <e1>bees</e1> manufactured the <e2>nectar</e2>."
+Entity-Origin(e2,e1)
+
+084 "This is assuming that the <e1>dividend</e1> is received from a <e2>treaty country</e2>."
+Entity-Origin(e1,e2)
+
+085 "I think people really do themselves a disservice when they get their <e1>news</e1> from only one <e2>source</e2>."
+Entity-Origin(e2,e1)
+
+086 "The <e1>transition</e1> from <e2>dictatorship</e2> to democracy will take time, but it is worth every effort."
+Entity-Origin(e1,e2)
+
+087 "The <e1>signal</e1> is received from a <e2>known direction</e2>."
+Entity-Origin(e1,e2)
+
+088 "We want ideas to save our planet, to save the <e1>planet</e1> from the <e2>imperialist threat</e2>."
+Entity-Origin(e1,e2)
+
+089 "The commission merely implements the contracts, shielding the <e1>major party candidates</e1> from <e2>public criticism</e2>."
+Entity-Origin(e1,e2)
+
+090 "The <e1>above advertisement</e1> is from the <e2>server provider</e2> not from me."
+Entity-Origin(e1,e2)
+
+091 "This <e1>view</e1> from the inside is from the <e2>bridge</e2> that spans Atherton Street."
+Entity-Origin(e1,e2)
+
+092 "The <e1>discoverer</e1> writes a <e2>short citation</e2> explaining the reasons for assigning the name."
+Entity-Origin(e2,e1)
+
+093 "The <e1>quotation</e1> is from the <e2>preface</e2> to the fourth edition."
+Entity-Origin(e1,e2)
+
+094 "The <e1>pollen</e1> is derived from a podocarp/broadleaved <e2>forest</e2>, which probably. covered both the alluvial flats and sides of the valley."
+Entity-Origin(e1,e2)
+
+095 "He went on to examine the <e1>theory</e1> from a <e2>risk assessment perspective</e2>."
+Entity-Origin(e1,e2)
+
+096 "<e1>Chicken</e1> <e2>bouillon</e2> can be obtained in three different forms, either liquid, powder or in cubes."
+Entity-Origin(e2,e1)
+
+097 "The Corel data set is relatively simple because the annotations are <e1>nouns</e1> selected from a <e2>relatively small vocabulary</e2>."
+Entity-Origin(e1,e2)
+
+098 "<e1>Almond</e1> <e2>butter</e2> is available in many natural and whole food stores."
+Entity-Origin(e2,e1)
+
+099 "<e1>Avocado</e1> <e2>butter</e2> is a very rich, moisturizing treatment for the hair and skin, and it has some natural sunscreen properties."
+Entity-Origin(e2,e1)
+
+100 "She opened a fridge in the side of the door and got out a <e1>blueberry</e1> <e2>vodka</e2>."
+Entity-Origin(e2,e1)
+
+101 "The <e1>sauce</e1> is made from <e2>soybean flour</e2>, chiles, red beans, and many other spices."
+Entity-Origin(e1,e2)
+
+102 "In contrast, clay-textured soils are more difficult to prepare a <e1>canola</e1> <e2>seedbed</e2> because the clods can be too large when worked wet, and they tend to crust once worked to a fine seedbed."
+Entity-Origin(e2,e1)
+
+103 "The <e1>following translation</e1> is from the <e2>website</e2> of Sanzinsoo."
+Entity-Origin(e1,e2)
+
+104 "The remarkably comprehensive 32-page 2004 Memorandum of Understanding prohibited the <e1>candidates</e1> from <e2>questioning</e2> each other, limited rebuttals to a mere 30 seconds, barred direct follow-up questions and entirely prohibited surrebuttals."
+Entity-Origin(e1,e2)
+
+105 "Combine strawberries and <e1>powder</e1> <e2>sugar</e2> and mix well."
+Entity-Origin(e1,e2)
+
+106 "A <e1>blood</e1> <e2>alcohol</e2> level of .08 or higher will result in a DUI arrest."
+Entity-Origin(e2,e1)
+
+107 "Short-term disability and long-term <e1>disability</e1> <e2>benefits</e2> are available at no cost to USTelecom employees."
+Entity-Origin(e2,e1)
+
+108 "<e1>Canola</e1> <e2>oil</e2> is a versatile, neutral-tasting oil that is very low in saturated fat."
+Entity-Origin(e2,e1)
+
+109 "In any case, we found no indications that <e1>fish</e1> <e2>oil</e2> would harm patients."
+Entity-Origin(e2,e1)
+
+110 "The <e1>ball</e1> is retrieved from the <e2>hedge</e2>."
+Entity-Origin(e1,e2)
+
+111 "The <e1>data</e1> are derived primarily from a <e2>three-nation survey</e2> conducted for the Harvard School of Public Health and The Robert Wood Johnson Foundation by Louis Harris and Associates and its international affiliates between 10 June and 14 September 1994."
+Entity-Origin(e1,e2)
+
+112 "The hotel is in the style of a <e1>country</e1> <e2>lodge</e2> and only has 18 rooms."
+Entity-Origin(e2,e1)
+
+113 "We will reposition ourselves and our events to attract <e1>scientists</e1> from <e2>complementary disciplines</e2>."
+Entity-Origin(e1,e2)
+
+114 "The <e1>image</e1> is from the <e2>poster</e2> 'Selling Counterfeit Products is Illegal'."
+Entity-Origin(e1,e2)
+
+115 "Tom plans to continue to live the <e1>country</e1> <e2>life</e2> as he grows older."
+Entity-Origin(e2,e1)
+
+116 "The <e1>following advice</e1> is distilled from <e2>builders</e2> and first-hand experience."
+Entity-Origin(e1,e2)
+
+117 "The <e1>first quote</e1> is from the Ginger Meggs <e2>cartoon</e2>."
+Entity-Origin(e1,e2)
+
+118 "Unlike a <e1>hard-copy</e1> <e2>book</e2> (at an even higher price), this one purchase ensures you will be up to date with all future releases of the electronic book."
+Entity-Origin(e2,e1)
+
+119 "Assuming that the <e1>data</e1> are from a <e2>multivariate normal distribution</e2>, data augmentation is applied to Bayesian inference with missing data by repeating a series of imputation and posterior steps."
+Entity-Origin(e1,e2)
+
+120 "This Appalachian region had been settled by <e1>emigrants</e1> from the <e2>lowlands</e2>."
+Entity-Origin(e1,e2)
+
+121 "The <e1>video sequence</e1> is from the <e2>movie</e2> 'Forrest Gump'."
+Entity-Origin(e1,e2)
+
+122 "The <e1>transmitter</e1> generates the <e2>electromagnetic wave</e2>, some of which will be incident on the receiver."
+Entity-Origin(e2,e1)
+
+123 "<e1>Supervision</e1> is received from a <e2>golf supervisor</e2>, who reviews work through conferences, reports, and results achieved."
+Entity-Origin(e1,e2)
+
+124 "The more samples (and therefore means) from the population one takes, the better the <e1>population estimate</e1> is from the <e2>sampling distribution</e2>."
+Entity-Origin(e1,e2)
+
+125 "Any herb can be used in <e1>herb</e1> <e2>butter</e2>, but it is best to use bold flavors."
+Entity-Origin(e2,e1)
+
+126 "But neither of the <e1>teens</e1> manufactured the <e2>fake device</e2>, he said."
+Entity-Origin(e2,e1)
+
+127 "This surgical operation isolates most of the <e1>right hemisphere</e1> from the <e2>left hemisphere</e2>."
+Entity-Origin(e1,e2)
+
+128 "Each year over 2300 <e1>scientists</e1> from <e2>universities</e2>, industries and government labs perform research at the NSLS."
+Entity-Origin(e1,e2)
+
+129 "The rest of the points are awarded proportionally to the distance the <e1>ball</e1> is from the <e2>farthest traveling ball</e2>."
+Entity-Origin(e1,e2)
+
+130 "The <e1>homes</e1> are from a <e2>simpler time</e2>, when closets were tiny and bathrooms were few, but the woodwork and stonework are inspiring."
+Entity-Origin(e1,e2)
+
+131 "About 30 ducks were found dead in Klamath County in the past two days, and officials are investigating whether the <e1>deaths</e1> are from a <e2>cholera outbreak</e2>."
+Entity-Origin(e1,e2)
+
+132 "The <e1>man</e1> radiated <e2>jolliness</e2>."
+Entity-Origin(e2,e1)
+
+133 "A couple of spoonsful would have been mixed with water to create a sweet and tart drink, the <e1>fruit</e1> providing the flavor and <e2>color</e2>, the sugar providing the sweetness, and the vinegar providing the tartness."
+Entity-Origin(e2,e1)
+
+134 "Prepare some <e1>beef</e1> <e2>bouillon</e2> and let it cool."
+Entity-Origin(e2,e1)
+
+135 "The <e1>dryer</e1> emits <e2>air</e2> that is regulated close to your body temperature."
+Entity-Origin(e2,e1)
+
+136 "Where's the <e1>outrage</e1> from the <e2>sexism crusaders</e2>?"
+Entity-Origin(e1,e2)
+
+137 "In America, generations of Portuguese <e1>immigrants</e1> from the <e2>mainland</e2>, Azores and Madeira have brought their often-simple but diverse and always tasty cuisine."
+Entity-Origin(e2,e1)
+
+138 "The <e1>dose</e1> makes the <e2>poison</e2>."
+Entity-Origin(e2,e1)
+
+139 "This is an overview of the viewer from a <e1>developer</e1>'s <e2>perspective</e2>."
+Entity-Origin(e2,e1)
+
+140 "The <e1>data</e1> presented here are mainly derived from a <e2>survey</e2> designed by researchers at the Harvard School of Public Health."
+Entity-Origin(e1,e2)
+
+001 "The <e1>island</e1> was farmed for <e2>oats</e2> and barley until 1796 when the owner mandated that oak and alder trees be planted."
+Product-Producer(e2,e1)
+
+002 "In some Asian countries, including China, Malaysia and the Philippines, the <e1>turtles</e1> are farmed for <e2>food</e2>."
+Product-Producer(e2,e1)
+
+004 "The soft brown and beige <e1>tones</e1> in the decoration provide a <e2>tranquil mood</e2>."
+Product-Producer(e2,e1)
+
+005 "A White House <e1>usher</e1> prepares the <e2>blue room</e2> for a luncheon for the European Commission."
+Product-Producer(e2,e1)
+
+006 "Entering the <e1>fissure</e1> created by the <e2>meteor's impact</e2>, Sephiroth would merge with all the energy of the planet, granting him god-like power over it."
+Product-Producer(e1,e2)
+
+007 "The <e1>artist</e1> made the <e2>picture</e2> when he was a fourth grade student in Iowa City."
+Product-Producer(e2,e1)
+
+008 "The glass dome from the beginning of the century is gorgeous, prices are reasonable, and the <e1>waiters</e1> provide a <e2>show</e2> worth watching."
+Product-Producer(e2,e1)
+
+009 "To that end the <e1>faculty</e1> collaboratively designed the credential, certificate, and degree <e2>programs</e2> to provide you with a sequence of coursework and field experiences that prepares you to not only act like teachers, counselors and administrators, but to think like them as well."
+Product-Producer(e2,e1)
+
+010 "With these axioms, the <e1>judges</e1> cultivated the <e2>principles</e2> of judgment, and those principles could be used in gauging the restrictions on freedom that were justified or unjustified, in any domain of the law."
+Product-Producer(e2,e1)
+
+011 "The <e1>simulation study</e1> produces <e2>voluminous results</e2>, since there are two types of models, each with four different specifications and with two sample sizes involved."
+Product-Producer(e2,e1)
+
+012 "Not too long ago, the <e1>grass</e1> was farmed for <e2>hay</e2>; then, it was ditched for mosquito control."
+Product-Producer(e2,e1)
+
+013 "If the <e1>hydrogen</e1> comes from <e2>water</e2>, then electricity from any source can be used to electrolyze the water."
+Product-Producer(e1,e2)
+
+014 "Until last year, Afghanistan was known as an <e1>opium</e1> <e2>exporter</e2>, not a major heroin producer."
+Product-Producer(e1,e2)
+
+015 "The decedent was a licensed commercial truck driver and had been employed by this <e1>trucking</e1> <e2>company</e2> for five years."
+Product-Producer(e1,e2)
+
+016 "Learn how cartographic evidence refutes the authenticity of the Vinland Map and from where the <e1>map</e1>'s <e2>maker</e2> might have drawn inspiration."
+Product-Producer(e1,e2)
+
+017 "The <e1>scientists</e1> made the surprising <e2>observation</e2> that SMN will bind efficiently -- and carry out its functions -- if the proteins to which it needs to bind are first "tagged" by specific enzymes."
+Product-Producer(e2,e1)
+
+018 "It is set in a future in which the <e1>oceans</e1> are farmed for <e2>food</e2>."
+Product-Producer(e2,e1)
+
+019 "The <e1>boy</e1> who made the <e2>threat</e2> was arrested, charged, and had items confiscated from his home."
+Product-Producer(e2,e1)
+
+020 "Contact the <e1>router</e1>'s <e2>manufacturer</e2> for assistance with configuration and proper setup of your wired router."
+Product-Producer(e1,e2)
+
+021 "It is set in the most beautiful surroundings and the <e1>land</e1> has been biodynamically farmed for <e2>many years</e2>."
+Product-Producer(e2,e1)
+
+022 "You're right that the <e1>punk explosion</e1> cultivated the underground/indie rock <e2>scene</e2> that would one day be called 'alternative music' that rooted deep into the culture."
+Product-Producer(e2,e1)
+
+023 "Beginning in 1966-67, the <e1>club</e1> made the <e2>playoffs</e2> nine consecutive seasons, the only NHL team of the period to accomplish that feat."
+Product-Producer(e2,e1)
+
+024 "The <e1>vaccine</e1> is produced by the <e2>government</e2> and is not for sale to private individuals or companies."
+Product-Producer(e1,e2)
+
+025 "In almost all of the incidents, the <e1>attacker</e1> developed the <e2>idea</e2> to harm the target before the attack."
+Product-Producer(e2,e1)
+
+026 "The <e1>land</e1> was farmed for <e2>olives</e2> and a few other crops."
+Product-Producer(e2,e1)
+
+027 "The <e1>students</e1> designed the home's <e2>living areas</e2> with an eye toward making a small house feel spacious."
+Product-Producer(e2,e1)
+
+028 "The <e1>tram</e1> makes the <e2>trip</e2> from the main university campus in less than 5 minutes, while driving can take 15 minutes or longer."
+Product-Producer(e2,e1)
+
+029 "Because the ice in the smoothie has to be crushed and blended with the other ingredients, a <e1>smoothie</e1> <e2>maker</e2> is usually the appliance of choice."
+Product-Producer(e1,e2)
+
+030 "We think the <e1>emission</e1> is produced by <e2>material</e2> rapidly falling into an accretion disk, which heats up to high temperatures."
+Product-Producer(e1,e2)
+
+031 "These are new sorts of sponsors for us, a shoe company and a <e1>furniture</e1> <e2>maker</e2>."
+Product-Producer(e1,e2)
+
+032 "And this means that researchers have lost a valuable lead in their hunt for the <e1>artists</e1> who created the <e2>figurines</e2>."
+Product-Producer(e2,e1)
+
+033 "It is no justification that the <e1>defamation</e1> comes from a <e2>bishop</e2>."
+Product-Producer(e1,e2)
+
+034 "The <e1>monitor</e1> shall provide a <e2>quarterly report</e2> to the Chapter (or NEC)."
+Product-Producer(e2,e1)
+
+035 "The <e1>tutors</e1> provide a consistent, reliable <e2>intervention</e2> that allows students who are falling behind an opportunity to reach proficiency."
+Product-Producer(e2,e1)
+
+036 "Another good example of the importance of hormonal balance in the body is the <e1>growth hormone</e1> produced by the <e2>pituitary gland</e2>."
+Product-Producer(e1,e2)
+
+037 "The production assistant is basically the <e1>guy</e1> who makes <e2>coffee</e2> and goes to the post office."
+Product-Producer(e2,e1)
+
+038 "The entire site was actively farmed during the 2004 growing season and aerial photography indicates the <e1>site</e1> has been farmed for <e2>multiple years</e2>."
+Product-Producer(e2,e1)
+
+039 "He does not think the friends realize that the <e1>crisis</e1> begets the <e2>triumph</e2>, just as the coming war is the begetter of the Most Great Peace."
+Product-Producer(e2,e1)
+
+040 "The Wal-Mart Supercenter plans to employ as many as 455 associates, including 180 planned new <e1>jobs</e1> created by the <e2>relocation</e2>."
+Product-Producer(e1,e2)
+
+041 "Unlike most of the annual showers the <e1>antihelion radiant</e1> is produced by <e2>debris</e2> from unknown sources orbiting in a direct motion like the earth."
+Product-Producer(e1,e2)
+
+042 "Instead, he believes most of the <e1>noise</e1> comes from a <e2>vocal minority</e2>."
+Product-Producer(e1,e2)
+
+043 "Also, very rarely, hypnotherapy leads to the development of '<e1>false memories</e1>' fabricated by the <e2>unconscious mind</e2>; these are called confabulations."
+Product-Producer(e1,e2)
+
+044 "The <e1>experimenters</e1> designed the <e2>shape</e2> and size of the enlarged fiber ends so they don't experience the stresses that usually snap fibers and limit a short-fiber composite's performance."
+Product-Producer(e2,e1)
+
+045 "The third <e1>zone</e1> is procreated by the <e2>mid-ocean ridge</e2>, which is responsible for 7 percent of the earthquakes."
+Product-Producer(e1,e2)
+
+046 "Digital computers actually execute numerical instructions: bitstrings that contain information in the 'native' <e1>language</e1> created by the machine's <e2>designers</e2>."
+Product-Producer(e1,e2)
+
+047 "Then, in May, 2005, the <e1>government</e1> produced the <e2>factual return</e2>, as ordered by the District Court."
+Product-Producer(e2,e1)
+
+048 "<e1>Biodiesel</e1> is derived from <e2>vegetable oils</e2>."
+Product-Producer(e1,e2)
+
+049 "The <e1>student</e1> shall provide a <e2>written request</e2>, mailed to the Executive Director of the Pacific Division."
+Product-Producer(e2,e1)
+
+050 "Her employment at this <e1>mustard</e1> <e2>company</e2> is considered the earliest recorded evidence of a company specifically hiring an industrial nurse."
+Product-Producer(e1,e2)
+
+051 "The <e1>burning fuel</e1> produces <e2>exhaust gases</e2>, which, when forced out the nozzle, produce thrust, moving the rocket in the other direction."
+Product-Producer(e2,e1)
+
+052 "The <e1>legislature</e1> created the <e2>ombudsman</e2> to intervene when children or their parents are subjected to unauthorized or unreasonable agency decisions."
+Product-Producer(e2,e1)
+
+053 "To better follow the quality, the <e1>company</e1> manufactures itself the necessary <e2>fabrics</e2>, starting from the purchase of the yarn."
+Product-Producer(e2,e1)
+
+054 "So the inscription didn't name the <e1>pistol</e1>'s <e2>maker</e2>, or the artist who decorated it, or the year it was made."
+Product-Producer(e1,e2)
+
+055 "As the molten metal cools, it hardens and assumes the <e1>shape</e1> created by the mold's <e2>cavity</e2>."
+Product-Producer(e1,e2)
+
+056 "The <e1>transmitter</e1> emits a constant <e2>radio signal</e2> to create a 'safe zone'."
+Product-Producer(e2,e1)
+
+057 "This teaches that the <e1>body</e1> is procreated by the <e2>parents</e2> and the soul and spirit are directly created by God and placed in the body."
+Product-Producer(e1,e2)
+
+058 "The <e1>micropump</e1> is fabricated by the <e2>anisotropic etching</e2>, the boron diffusion and the metal evaporation."
+Product-Producer(e1,e2)
+
+059 "The <e1>implementor</e1> makes the <e2>decision</e2>, not the protocol."
+Product-Producer(e2,e1)
+
+060 "Dr. Aimee Rose, a member of the <e1>team</e1> who made the <e2>discovery</e2>, predicts it will save many lives, both military and civilian."
+Product-Producer(e2,e1)
+
+061 "The <e1>servant</e1> brought forth <e2>jewels</e2> of silver, and jewels of gold, and clothing, and gave them to Rebekah."
+Product-Producer(e2,e1)
+
+062 "The <e1>demonstrators</e1> composed the <e2>figure</e2> 420, representing the number of people still being held at the US prison in Cuba."
+Product-Producer(e2,e1)
+
+063 "The <e1>steering committee</e1> developed the <e2>protocol</e2> and consent forms with the participating sites and guided the implementation of the trial."
+Product-Producer(e2,e1)
+
+064 "The <e1>ancients</e1> cultivated the <e2>species</e2> 'Heracleum Sphondylium' which is the parsnip a similar plant to carrots."
+Product-Producer(e2,e1)
+
+065 "If you are cleaning a <e1>coffee</e1> <e2>maker</e2> that hasn't been cleaned regularly, repeat this step again with a fresh vinegar and water mixture."
+Product-Producer(e1,e2)
+
+066 "The <e1>artist</e1> who originally made the <e2>song</e2> popular is listed for reference only."
+Product-Producer(e2,e1)
+
+067 "The satisfaction was complete - please find below a <e1>statement</e1> from the <e2>producer</e2>."
+Product-Producer(e1,e2)
+
+068 "He was a <e1>trouble</e1> <e2>maker</e2> then, a leader in SDS, and a trouble maker he remains."
+Product-Producer(e1,e2)
+
+069 "In zen, there is a strong relationship between <e1>work</e1> and <e2>food</e2>, for the former begets the latter."
+Product-Producer(e2,e1)
+
+070 "This <e1>skateboard</e1> <e2>company</e2> designs skateboards specifically for girls."
+Product-Producer(e1,e2)
+
+071 "The southern <e1>supercell</e1> produced the longest <e2>tornado track</e2> of the outbreak (tornado #4)."
+Product-Producer(e2,e1)
+
+072 "The <e1>lady</e1> made the <e2>photocopies</e2>, pushed a few more keys on her computer, and shuffled some papers around."
+Product-Producer(e2,e1)
+
+073 "The <e1>watchmaker</e1> makes the <e2>watch</e2>, he winds it up, he sets it going, he is outside the process but he initiates the process, he sets the hands in motion."
+Product-Producer(e2,e1)
+
+074 "In addition to his reputation as a <e1>film</e1> <e2>maker</e2> Lehmuskallio is also known as an artist."
+Product-Producer(e1,e2)
+
+075 "After the <e1>panel</e1> makes a <e2>recommendation</e2>, OraSure said it likely will formally apply to sell the test over-the-counter."
+Product-Producer(e2,e1)
+
+076 "The <e1>stereograph</e1> produces the same <e2>output</e2>."
+Product-Producer(e2,e1)
+
+077 "If one were to put frozen prawns in a <e1>popcorn</e1> <e2>maker</e2>, one would obtain prawn crackers."
+Product-Producer(e1,e2)
+
+078 "Have you ever noticed the three numbers at the bottom of a <e1>fertilizer</e1> <e2>package</e2>?"
+Product-Producer(e1,e2)
+
+079 "During this procedure, the <e1>surgeon</e1> makes a small <e2>hole</e2> ("fenestration") in the baffle to help relieve the symptoms of the original heart disease."
+Product-Producer(e2,e1)
+
+080 "Preliminary experiments [Nature (1994) 368, 315] seemed to support this idea in that the <e1>quenches</e1> produced the predicted high <e2>vortex-densities</e2>."
+Product-Producer(e2,e1)
+
+081 "The <e1>energy</e1> of emission produces the <e2>separation field</e2>."
+Product-Producer(e2,e1)
+
+082 "On both of my systems, the <e1>reboot</e1> produced the ominous <e2>message</e2> 'Missing operating system'."
+Product-Producer(e2,e1)
+
+083 "<e1>Trees</e1> grow <e2>seeds</e2>."
+Product-Producer(e2,e1)
+
+084 "The <e1>land</e1> was farmed for <e2>cattle</e2>, but segments of the forests were sold off and the chapel fell into disrepair."
+Product-Producer(e2,e1)
+
+085 "Today 75% of the <e1>county</e1> is intensively farmed for <e2>corn</e2>, soybeans, oats, and alfalfa with emphasis on dairy production."
+Product-Producer(e2,e1)
+
+086 "The resulting <e1>shockwaves</e1> produced the <e2>metal-forming conditions</e2> for periods of 100-200 ns."
+Product-Producer(e2,e1)
+
+087 "The <e1>plane</e1> makes a <e2>parabolic maneuver</e2>, much like a roller coaster with steep climbs and descents, that simulates zero gravity conditions."
+Product-Producer(e2,e1)
+
+088 "Like other spiders, the <e1>tarantula</e1> makes a <e2>silken web</e2>, but not for snaring prey."
+Product-Producer(e2,e1)
+
+089 "<e1>Agarwood</e1>, the world's most valuable incense, is produced by the <e2>aquilaria tree</e2>, found in tropical rainforests, and has been used for centuries as incense and in traditional medicine."
+Product-Producer(e1,e2)
+
+090 "The <e1>bombing</e1> produced the worst <e2>carnage</e2> since a Nov. 23 attack in the Shi'ite slum of Sadr City that killed more than 200 people."
+Product-Producer(e2,e1)
+
+091 "The group is alleging the <e1>computer giant</e1> negligently designed the <e2>laptops</e2>, ultimately causing them to overheat and do damage their own motherboards."
+Product-Producer(e2,e1)
+
+092 "The PI <e1>login</e1> is created by the <e2>administrator</e2>."
+Product-Producer(e1,e2)
+
+093 "Other non-native species used in aquaculture are brook trout (Salvelinus fontinalis) and lake trout (Salvelinus namaycush), <e1>fishes</e1> that mainly has been farmed for <e2>stocking purposes</e2>."
+Product-Producer(e2,e1)
+
+094 "The <e1>tenant</e1> has farmed for this <e2>owner</e2> for several years and doesn't want to lose the ground, but also does not want to pay the large increase in rent."
+Product-Producer(e2,e1)
+
+095 "The <e1>electricity</e1> is produced by 440 nuclear <e2>reactors</e2> in 31 countries."
+Product-Producer(e1,e2)
+
+096 "The <e1>surrounding region</e1> is farmed for its <e2>fertility</e2>."
+Product-Producer(e2,e1)
+
+097 "The <e1>photoheliograph</e1> produced the <e2>glass-plate photographs</e2> on display in this exhibition gallery."
+Product-Producer(e2,e1)
+
+098 "The <e1>cabin passengers</e1> composed the <e2>elite</e2> -- the créme de la créme."
+Product-Producer(e2,e1)
+
+099 "In addition to serving as a <e1>fertilizer</e1> <e2>ingredient</e2>, ammonia can also be used directly as a fertilizer by forming a solution with irrigation water, without additional chemical processing."
+Product-Producer(e1,e2)
+
+100 "I'm the <e1>decision</e1> <e2>maker</e2>, and I had to come up with a way forward that precluded disaster."
+Product-Producer(e1,e2)
+
+101 "This <e1>northshore</e1> <e2>company</e2> is looking for a dynamic transcriptionist who can take detailed notes from a meeting and document the next day!"
+Product-Producer(e1,e2)
+
+102 "I had told this <e1>headhunter</e1>'s <e2>company</e2> repeatedly that I was only interested in working in the Philadelphia area."
+Product-Producer(e1,e2)
+
+103 "Showing a sample of a fertilizer package this <e1>fertilizer</e1> <e2>company</e2> shows what to look for on their label."
+Product-Producer(e1,e2)
+
+104 "The <e1>courts</e1> created the Freeman-Walter-Abele <e2>test</e2> to determine whether an algorithm only represents an abstract idea."
+Product-Producer(e2,e1)
+
+105 "PHY 319 is presently taught in three 50-minute lectures per week in which the <e1>instructor</e1> makes a <e2>chalkboard presentation</e2>."
+Product-Producer(e2,e1)
+
+106 "Most of the <e1>steam</e1> comes from a volcano's <e2>magma</e2>."
+Product-Producer(e1,e2)
+
+107 "The <e1>land</e1> surrounding the lakes is extensively farmed for <e2>wheat</e2>, while elsewhere in the National Park the steppe is heavily grazed by domestic livestock."
+Product-Producer(e2,e1)
+
+108 "Some people voluntarily get involved with politicisation, while others become victims of <e1>circumstances</e1> created by the <e2>politicisation</e2>," he said."
+Product-Producer(e1,e2)
+
+109 "The <e1>dose</e1> makes the <e2>poison</e2>."
+Product-Producer(e2,e1)
+
+110 "We conducted a usability test on the enterprise-wide navigation system for this <e1>healthcare</e1> <e2>company</e2>'s proposed intranet redesign."
+Product-Producer(e1,e2)
+
+111 "The <e1>insurer</e1> will provide a <e2>cash deposit</e2> in advance."
+Product-Producer(e2,e1)
+
+112 "If the <e1>request</e1> comes from a <e2>private company</e2>, there's no law that requires them to provide a disclosure notice."
+Product-Producer(e1,e2)
+
+113 "We know this <e1>telecommunications</e1> <e2>company</e2>."
+Product-Producer(e1,e2)
+Product-Producer(e1,e2)
+
+114 "I was trained as a <e1>violin</e1> <e2>maker</e2>, over 20 years ago, and have built violins (baroque and classical), violas, cellos, viols da gamba, and viols d'amore."
+Product-Producer(e1,e2)
+
+115 "Yanbian is also blessed with agricultural riches and is a major <e1>tobacco</e1> <e2>producer</e2>."
+Product-Producer(e1,e2)
+
+116 "Patient survival one year after transplantation from a living-related donor is 95% and comparably high if the <e1>organ</e1> comes from a cadaveric <e2>donor</e2>."
+Product-Producer(e1,e2)
+
+117 "However, I believe that this is an opportune moment to change the <e1>political structures</e1> which procreated the <e2>events</e2> of Sept. 11th."
+Product-Producer(e2,e1)
+
+119 "The <e1>plan</e1> developed the <e2>premium rates</e2> in accordance with the laws and regulations governing the FEHBP."
+Product-Producer(e2,e1)
+
+120 "Then, while you relax, the <e1>chef</e1> prepares the <e2>meal</e2> and serves it, restaurant-style."
+Product-Producer(e2,e1)
+
+121 "Located near the equator in South America, the <e1>cocoa tree</e1> produces <e2>cocoa beans</e2>, the source of all chocolate."
+Product-Producer(e2,e1)
+
+122 "Like normal 'Simon' games, it starts with a one digit sequence, and then increases indefinitely until the <e1>caller</e1> makes a <e2>mistake</e2>."
+Product-Producer(e2,e1)
+
+123 "According to Staten, the company's <e1>storage strategy</e1> is derived from customer's <e2>needs</e2>."
+Product-Producer(e1,e2)
+
+124 "The same <e1>company</e1> also makes a <e2>good coffee substitute</e2> called Bambu which is made from organic chicory combined with figs, cereals and acorns to the original recope of the late Swiss nature doctor and founder of the company, Alfred Vogel."
+Product-Producer(e2,e1)
+
+125 "The <e1>rain</e1> begets the <e2>food</e2> we eat."
+Product-Producer(e2,e1)
+
+126 "Chinese liquor is a kind of <e1>wine</e1> produced by <e2>solidified fermentation</e2> of grain."
+Product-Producer(e1,e2)
+
+127 "The <e1>tools</e1> made the <e2>job</e2> easy when it could have been a nightmare."
+Product-Producer(e2,e1)
+
+128 "The <e1>collaboration</e1> produced the PUMP (Pittsburg urban mathematics program) <e2>curriculum</e2>, which focuses on mathematical analyses of real-world situations, the use of computational tools, and on making algebra accessible to all students."
+Product-Producer(e2,e1)
+
+129 "Normally, the <e1>bone marrow</e1> produces <e2>stem cells</e2> (immature cells) that develop into mature blood cells."
+Product-Producer(e2,e1)
+
+130 "Monica Mullikin ('00) is working for Willis of Minneapolis as a catastrophe risk analyst for this <e1>reinsurance</e1> <e2>company</e2>."
+Product-Producer(e1,e2)
+
+131 "Some of the <e1>land</e1> was farmed for <e2>coffee</e2> in the past, but it is now mostly native vegetation (with some emergent trees)."
+Product-Producer(e2,e1)
+
+132 "The <e1>architect</e1> carefully designed the 15 <e2>rowhouses</e2>, reflecting the suburban ideal of the late 1800s."
+Product-Producer(e2,e1)
+
+133 "'We think that the <e1>fat</e1> begets the <e2>insulin resistance</e2>, which helps produce risk factors for arteriosclerosis', he added."
+Product-Producer(e2,e1)
+
+134 "Apparantly you think two wrongs can make a right, but that doesn't help the starving people of Zimbabwe, who were previously not starving due to the <e1>land</e1> being farmed for <e2>profit</e2> instead of used as political gifts."
+Product-Producer(e2,e1)
+
+135 "It is also illegal for anyone other than the <e1>drug</e1>'s <e2>manufacturer</e2> to re-import a prescription drug that was originally manufactured in the United States."
+Product-Producer(e1,e2)
+
+136 "Virtually all hillside farmers grow maize during both seasons, and many of the <e1>farmers</e1> cultivate <e2>beans</e2>, rice, and other crops as well."
+Product-Producer(e2,e1)
+
+137 "The <e1>cathode</e1> emits <e2>electrons</e2>."
+Product-Producer(e2,e1)
+
+138 "The lower mark is the Vienna <e1>company</e1> that made the <e2>mug</e2>."
+Product-Producer(e2,e1)
+
+139 "Peterson worked as a <e1>fertilizer</e1> <e2>salesman</e2> before his arrest."
+Product-Producer(e1,e2)
+
+140 "The <e1>headmaster</e1> made the formal <e2>announcement</e2>."
+Product-Producer(e2,e1)
+
+001 "The period of <e1>tumor shrinkage</e1> after <e2>radiation therapy</e2> is often long and varied (mean months)."
+Cause-Effect(e2,e1)
+
+002 "<e1>Habitat degradation</e1> from within <e2>stream channels</e2>, loss of riparian vegetation, and reductions in water quality degrade and also limit the population."
+Cause-Effect(e2,e1)
+
+003 "Earplugs relieve the <e1>discomfort</e1> from <e2>traveling</e2> with a cold allergy or sinus condition."
+Cause-Effect(e2,e1)
+
+004 "We continue to see progress toward a world free of the <e1>daily terror</e1> of <e2>antipersonnel land mines</e2>."
+Cause-Effect(e2,e1)
+
+005 "The Global Warming <e1>segment</e1> starts off with two, cute <e2>anecdotes</e2> about flowers blooming early and aardvarks moving North."
+Cause-Effect(e2,e1)
+
+006 "The report links conditions in some of the worst affected localities and the likelihood that dire poverty — combined with despair and <e1>outrage</e1> over <e2>rampant corruption</e2>, repressive policies, and governments' failure to address local needs — could lead to outbreaks of localised unrest with the potential to spread into a wider regional conflict."
+Cause-Effect(e2,e1)
+
+007 "Literary criticism is the study of literature by means of a microscopic knowledge of the language in which a book is written, of its <e1>growth</e1> from various <e2>roots</e2>, of its stages of development and the factors influencing them, of its condition in the period of this particular composition, of the writer's idiosyncrasies of thought and style in his ripening periods, of the general history and literature of his race, and of the special characteristics of his age and of his contemporary writers."
+Cause-Effect(e2,e1)
+
+008 "<e1>Famine</e1> following <e2>drought</e2> has hit the West African savannahs, where there have been other bad droughts, notably the great one of 1972-74."
+Cause-Effect(e2,e1)
+
+009 "People in Hawaii might be feeling <e1>aftershocks</e1> from that powerful <e2>earthquake</e2> for weeks."
+Cause-Effect(e2,e1)
+
+010 "One newly formed Iraqi battalion is on duty, with scheduled for <e1>activation</e1> by <e2>summer</e2> 2004."
+Cause-Effect(e2,e1)
+
+011 "<e1>Zinc</e1> is essential for <e2>growth</e2> and cell division."
+Cause-Effect(e1,e2)
+
+012 "The typical <e1>flu infection</e1> starts with <e2>fever</e2>, muscular pains, headache and general fatigue."
+Cause-Effect(e2,e1)
+
+013 "Apartment residents in Delaware were awarded $million for health problems attributed to <e1>mold growth</e1> from <e2>unrepaired leaks</e2>."
+Cause-Effect(e2,e1)
+
+014 "This industry and way of life, however, is in trouble as salmon decline due to <e1>habitat degradation</e1> from <e2>dams</e2>, clearcutting, and overgrazing along streams."
+Cause-Effect(e2,e1)
+
+015 "It is widely known that significant reductions of these levels produce pastries with poor lift in the oven and with unacceptable <e1>shrinkage</e1> after <e2>cooling</e2>."
+Cause-Effect(e2,e1)
+
+016 "Teens will find a realistic model for improving self-esteem, confronting challenges head on and the possibilities of <e1>achievement</e1> through <e2>perseverance</e2>."
+Cause-Effect(e2,e1)
+
+017 "The age of first marriage does not predict <e1>happiness</e1> after <e2>marriage</e2>."
+Cause-Effect(e2,e1)
+
+018 "It is simple and ideal when all you want to do is freshen up clothes or smooth out <e1>wrinkles</e1> from <e2>garments</e2> that have been stored away."
+Cause-Effect(e2,e1)
+
+019 "As long as a surviving multiplexed copy of the controlfile exists, <e1>recovery</e1> from <e2>loss</e2> of a controlfile is simple."
+Cause-Effect(e2,e1)
+
+020 "He predicts that the severe <e1>famine</e1> following the <e2>good years</e2> would require a political and economic reorganization in the country."
+Cause-Effect(e2,e1)
+
+021 "The film also features documentary like segments about fishing and about the <e1>evacuation</e1> after the <e2>eruption</e2> of the volcano."
+Cause-Effect(e2,e1)
+
+022 "I believe that unless we take this issue seriously, the red squirrel is facing eventual <e1>extinction</e1> from the <e2>woods</e2> of Scotland."
+Cause-Effect(e2,e1)
+
+023 "There should be no <e1>revenue increase</e1> from the <e2>tax cuts</e2> - except possibly from the cuts in the higher tax rates."
+Cause-Effect(e2,e1)
+
+024 "The following are very basic tips which may help you manage your <e1>anxiety</e1> in the <e2>exam</e2>."
+Cause-Effect(e2,e1)
+
+025 "There exists a widespread <e1>controversy</e1> over <e2>stem cell research</e2> that emanates from the techniques used in the creation and usage of stem cells."
+Cause-Effect(e2,e1)
+
+026 "The order reaches the office in minutes, allowing the order staff to start <e1>fulfillment</e1> from <e2>warehouse inventory</e2>."
+Cause-Effect(e2,e1)
+
+027 "Aromatherapy can be used for <e1>stress relief</e1> through <e2>massage</e2> with sedatives like lavender and sweet marjoram."
+Cause-Effect(e2,e1)
+
+028 "The findings clearly show a high level of <e1>satisfaction</e1> from <e2>customers</e2> using new cutting-edge retail technology that has led to higher sales."
+Cause-Effect(e2,e1)
+
+030 "Complementing the data from PARK, GeoFEST will model the evolution of stress and strain in a detailed simulation of the crust and mantle, potentially helping researchers predict the <e1>deformation</e1> from an <e2>earthquake</e2> or a series of quakes."
+Cause-Effect(e2,e1)
+
+031 "Any <e1>injury</e1> from the <e2>neck</e2> to the shoulder of the brachial plexus would leave the arm useless."
+Cause-Effect(e2,e1)
+
+032 "It is likely that the <e1>nausea</e1> comes from <e2>abnormal sensations</e2> originating from areas of the brain that are sensing the lack of oxygen."
+Cause-Effect(e2,e1)
+
+033 "That seems to me like an <e1>accusation</e1> out of <e2>ignorance</e2> seeing that you don't even know what my characters name is."
+Cause-Effect(e2,e1)
+
+034 "In summer 2000, an Adventist church in Polotsk, Vitebsk Region, was damaged by a <e1>fire</e1> started with <e2>flammable liquids</e2>."
+Cause-Effect(e2,e1)
+
+035 "Genuine <e1>joy</e1> comes from profound <e2>spiritual awareness</e2> on life and an absolute clarity of direction, living for a purpose."
+Cause-Effect(e2,e1)
+
+036 "<e1>Ginkgo</e1> is added for <e2>increased circulation</e2> to the reproductive system."
+Cause-Effect(e1,e2)
+
+037 "During discussion of the legislation concerns, were raised that the inclusion of <e1>protection</e1> from <e2>exposure</e2> to the sun would place too heavy a burden on a number of smaller companies, especially building firms and small catering concerns, which may have a lot of outside workers."
+Cause-Effect(e2,e1)
+
+038 "These characteristics are inconsistent with <e1>observations</e1> from <e2>earthquakes</e2> of comparable distance and magnitude to those that dominate the hazard at Yucca Mountain."
+Cause-Effect(e2,e1)
+
+039 "Eye <e1>discomfort</e1> from this <e2>staring effect</e2> is exacerbated by low humidity."
+Cause-Effect(e2,e1)
+
+040 "Jane Jacobs has argued that all <e1>economic progress</e1> comes from <e2>urban places</e2>, that cities are the source of economic prosperity, and the role of rural areas inevitably becomes less important as development takes place."
+Cause-Effect(e2,e1)
+
+041 "He derives great joy and <e1>happiness</e1> from <e2>cycling</e2>."
+Cause-Effect(e2,e1)
+
+042 "The <e1>pollution</e1> in rain comes from <e2>mercury air pollution</e2> from coal-fired power plants and other industries."
+Cause-Effect(e2,e1)
+
+043 "In order for handwashing to be effective, vigorous friction, ample <e1>lather</e1> from <e2>soap</e2>, and thorough rinsing are needed to remove the germs from the hands."
+Cause-Effect(e2,e1)
+
+044 "Alabama has since enacted legislation, allowing <e1>death</e1> by <e2>lethal injection</e2> as an alternative choice to death in the electric chair."
+Cause-Effect(e2,e1)
+
+045 "Gurra Krantz, skipper of the still leading yacht SEB reports some <e1>frustration</e1> after <e2>yesterday's exhilarating rides</e2>."
+Cause-Effect(e2,e1)
+
+046 "<e1>Driving</e1> with <e2>sleep deprivation</e2> can have similar effects as driving under the influence."
+Cause-Effect(e2,e1)
+
+047 "Sudden <e1>death</e1> from <e2>inhalation</e2> of petroleum distillates is well recognised in misuses of volatile substances."
+Cause-Effect(e2,e1)
+
+048 "The good friar was insistent on both celibacy and <e1>abstinence</e1> from <e2>laughter</e2>."
+Cause-Effect(e2,e1)
+
+049 "Nausea is the sensation of unease and <e1>discomfort</e1> from the <e2>stomach</e2>, with the sufferers feeling that they may vomit."
+Cause-Effect(e2,e1)
+
+050 "And because of a last minute <e1>collapse</e1> from <e2>top</e2> to bottom - what would be and should be a perfect season to this point is just another year."
+Cause-Effect(e2,e1)
+
+051 "The randomized hypertensive ABCD study demonstrated a decrease in myocardial infarction with ACE inhibitors and a <e1>decrease</e1> in overall mortality with aggressive <e2>blood pressure control</e2>."
+Cause-Effect(e2,e1)
+
+052 "It was also felt necessary at this time to draw up a similar document, dealing not with the prevention of <e1>marine pollution</e1> by <e2>dumping</e2>, but instead with the prevention of marine pollution by discharges of dangerous substances from land-based sources, watercourses or pipelines."
+Cause-Effect(e2,e1)
+
+053 "Delay and procrastination set you up for <e1>frustration</e1> after <e2>frustration</e2>."
+Cause-Effect(e2,e1)
+
+054 "<e1>Continuous improvement</e1> starts with the <e2>measuring</e2> of the process performance, and the instigation of a robust process for reviewing further changes logically and quickly."
+Cause-Effect(e2,e1)
+
+055 "The risks of this procedure include anesthesia complications (especially General), post-operative difficulty breathing, and <e1>sore throat</e1> from <e2>intubation</e2>."
+Cause-Effect(e2,e1)
+
+056 "During periods of wide <e1>blood sugar fluctuations</e1> and after any <e2>change</e2> in insulin dose, the blood sugar must also be measured during the night."
+Cause-Effect(e2,e1)
+
+057 "Their chemical <e1>activation</e1> by <e2>light</e2> (halogen, plasma, lasers, etc.) enhances their efficiency by reducing exposure time and number of appointments."
+Cause-Effect(e2,e1)
+
+058 "The <e1>spiciness</e1> comes from small <e2>capsaicin glands</e2> located between the pepper's outside skin and the white ribs inside."
+Cause-Effect(e2,e1)
+
+059 "You can see the <e1>wrinkles</e1> from 'Meredith's'<e2>face</e2> and you can even understand by looking the series that she is really about same age as 'Bailey'."
+Cause-Effect(e2,e1)
+
+060 "Someone once said that <e1>progress</e1> comes from <e2>dissatisfaction</e2>."
+Cause-Effect(e2,e1)
+
+061 "Ray Parlour shows his <e1>frustration</e1> after Middlesbrough's <e2>defeat</e2>."
+Cause-Effect(e2,e1)
+
+062 "If governments were once content to passively realize the <e1>benefits</e1> from <e2>funding basic research</e2>, the determination to be part of the knowledge-based economy has driven OECD countries to extract greater direct benefits from publicly funded research."
+Cause-Effect(e2,e1)
+
+063 "The troubled company is still feeling <e1>aftershocks</e1> after its devastating <e2>withdrawal</e2> of the pain medication Vioxx six months ago."
+Cause-Effect(e2,e1)
+
+064 "Two sides search for the naked truth in the <e1>fight</e1> over a <e2>painting</e2> on display in a Florida shop."
+Cause-Effect(e2,e1)
+
+065 "In the months leading up to trade negotiations, estimates of the <e1>economic gains</e1> from <e2>trade liberalization</e2> suddenly become newsworthy."
+Cause-Effect(e2,e1)
+
+066 "The design of the shape of the can ends moreover has a marked effect on their ability to resist <e1>deformation</e1> from <e2>internal pressure</e2>."
+Cause-Effect(e2,e1)
+
+067 "This understanding is consistent with behavioural studies that have failed to clearly distinguish between people with <e1>drinking</e1> <e2>problems</e2> and others."
+Cause-Effect(e1,e2)
+
+069 "In the most common form of such an attack, called ischemic stroke, the <e1>blockage</e1> comes from a <e2>blood clot</e2> that develops in one of the brain's blood vessels."
+Cause-Effect(e2,e1)
+
+070 "<e1>Rain</e1> comes from <e2>evaporated seawater</e2>, transferring not just water but the solar energy that took it from the sea."
+Cause-Effect(e2,e1)
+
+071 "Women may experience <e1>anxiety</e1> from the <e2>time</e2> they first learn about the breast abnormality."
+Cause-Effect(e2,e1)
+
+072 "Manila radio station DZMM quoted survivors as saying that the <e1>fire</e1> started with an <e2>explosion</e2> in the cargo hold and spread across the ship within minutes."
+Cause-Effect(e2,e1)
+
+073 "Saunders felt a resurgence of the <e1>panic</e1> from this <e2>morning</e2> when he'd regained consciousness in the minefield."
+Cause-Effect(e2,e1)
+
+074 "Thatch is caused by <e1>excessive growth</e1> from <e2>overfertilizing</e2>, by allowing the grass to get too high before mowing, or by incorrect watering."
+Cause-Effect(e2,e1)
+
+076 "Two years ago, President George W. Bush ordered the <e1>activation</e1> by the <e2>end</e2> of of a system capable of defending the United States against a missile attack by a terrorist group or an unfriendly rogue state such as North Korea."
+Cause-Effect(e2,e1)
+
+077 "Most of the <e1>excitement</e1> came from the <e2>anticipation</e2> of winning a nice prize, all for the sum of one dollar."
+Cause-Effect(e2,e1)
+
+078 "Anyone seeking <e1>hair reduction</e1> by <e2>laser treatment</e2> should first consult with a dermatologist, says Moore."
+Cause-Effect(e2,e1)
+
+079 "The check given by Charles V to the advance of the Ottoman power along the African coast made him appear to the world as the liberator of the Christians and the <e1>terror</e1> of the <e2>infidels</e2>, and gave him such prestige that Francis felt obliged to get all the advantage possible out of his alliance."
+Cause-Effect(e2,e1)
+
+080 "Polystyrene with average molecular weight of 250,000-350,is particularly preferable because it is excellent in prevention of <e1>shrinkage</e1> after high-ratio <e2>expansion</e2>, and in balance of strength and fusing property."
+Cause-Effect(e2,e1)
+
+081 "Although Harry noticed it during exercise, the change that was identified was the difference in muscular <e1>discomfort</e1> from the <e2>beginning</e2> of his training program (riding five miles per day) to his current status two months later."
+Cause-Effect(e2,e1)
+
+082 "<e1>Yoga</e1> is fantastic for <e2>increased flexibility</e2>, which is great for cross-training with all the other programs we offer."
+Cause-Effect(e1,e2)
+
+083 "There are three set changes and two intervals which help the <e1>recovery</e1> from <e2>laughter</e2>, but the entertainment is maintained despite the well expected ending."
+Cause-Effect(e2,e1)
+
+084 "Polar bears and hippos have joined the ranks of species threatened with <e1>extinction</e1> from <e2>climate change</e2>, unregulated hunting and other dangers created by humans."
+Cause-Effect(e2,e1)
+
+085 "It is commonly accepted that <e1>progress</e1> comes from <e2>science</e2>, debate, inference, logic and reasoning."
+Cause-Effect(e2,e1)
+
+086 "<e1>Adults</e1> with <e2>sleep deprivation</e2> who listened to soft classical music at bedtime reported a percent improvement in their quality of sleep."
+Cause-Effect(e2,e1)
+
+087 "In fact, nobody received a <e1>drinking</e1> <e2>injury</e2> the whole weekend."
+Cause-Effect(e1,e2)
+
+088 "<e1>Surgery</e1> after <e2>radiation chemotherapy</e2> is an effective local treatment, which is able to significantly increase local tumor control compared to radiation chemotherapy only."
+Cause-Effect(e2,e1)
+
+089 "In the event of an <e1>evacuation</e1> after normal <e2>business hours</e2>, the on-duty Security Officer and maintenance personnel will be responsible for the notification and evacuation of occupants of all buildings."
+Cause-Effect(e2,e1)
+
+090 "Hand creams counteract <e1>dryness</e1> from <e2>exposure</e2> to wind, sun, and detergents."
+Cause-Effect(e2,e1)
+
+091 "In a departure from previous liftoffs, ground and aircraft cameras monitored Discovery for possible <e1>damage</e1> from falling <e2>debris</e2>."
+Cause-Effect(e2,e1)
+
+092 "Craig expressed his <e1>frustration</e1> after Monday's <e2>meeting</e2>."
+Cause-Effect(e2,e1)
+
+093 "Companies face big <e1>risk</e1> from <e2>loss</e2> of key employees."
+Cause-Effect(e2,e1)
+
+094 "Ancient pagan traditions used <e1>famine</e1> following <e2>feast</e2> as a way of revealing truth."
+Cause-Effect(e2,e1)
+
+095 "'The Incredible Shrinking Man' follows Matheson's novel and effectively captures the <e1>terror</e1> of the <e2>protagonist</e2> as he shrinks to oblivion."
+Cause-Effect(e2,e1)
+
+096 "Clinton Portis, who missed last week's game against Dallas because of a <e1>shoulder injury</e1> from the <e2>preseason</e2>, rushed for yards on attempts to become the fifth-fastest player to reach the 6,000-yard mark in his career."
+Cause-Effect(e2,e1)
+
+097 "This daily assault of inflammation in their digestive system, plus the <e1>inflammation</e1> from your <e2>joints</e2> and an overworked immune system and excess weight can easily exceed the amount of inflammation your body can effectively handle."
+Cause-Effect(e2,e1)
+
+098 "However, some may be able to perform minutes of moderate-intensity exercise two to three hours after breakfast without a high risk of hypoglycemia, despite slightly <e1>higher insulin levels</e1> after <e2>eating</e2>."
+Cause-Effect(e2,e1)
+
+099 "The moisturizers' primary function is to keep skin moist, minimize <e1>wrinkles</e1> from <e2>dryness</e2>, smoothe and soften skin, and to deliver other ingredients, like sunscreen, that benefit the skin."
+Cause-Effect(e2,e1)
+
+103 "However, these animals are found in the intertidal zone, inside tide pools, where salinity can increase due to <e1>evaporation</e1> from <e2>exposure</e2> to intense sunshine, or decrease from heavy rainfall or fresh water runoffs."
+Cause-Effect(e2,e1)
+
+104 "There were the years of constant fatigue and shortness of breath, the heart attack at age 11, the <e1>collapse</e1> from <e2>exhaustion</e2> on her high school graduation night."
+Cause-Effect(e2,e1)
+
+105 "<e1>Depression</e1> after <e2>heart attack</e2> increases future risk."
+Cause-Effect(e2,e1)
+
+106 "Examples include the <e1>exclusion</e1> of certain benefits from <e2>funding standards</e2> and the exclusion of entire plans from certain funding requirements."
+Cause-Effect(e2,e1)
+
+107 "This program will be an effective step to mitigate <e1>damage</e1> from <e2>hurricanes</e2> - but let us not forget this is a retroactive measure."
+Cause-Effect(e2,e1)
+
+108 "I know another <e1>drinking</e1> <e2>accident</e2> happened in the Gallup area the other day, which is plagued by drinking and driving accidents."
+Cause-Effect(e1,e2)
+
+109 "<e1>Scientific progress</e1> comes from <e2>breakthroughs</e2> and breakthroughs by their very nature are unpredictable and surprising in their impact."
+Cause-Effect(e2,e1)
+
+110 "Declines of great gray owls in California may be due to <e1>habitat degradation</e1> from <e2>logging</e2>, grazing, and development."
+Cause-Effect(e2,e1)
+
+111 "That year, summer students at the VLA made the first discovery of <e1>radio emission</e1> from a brown <e2>dwarf</e2>."
+Cause-Effect(e2,e1)
+
+112 "Parents also experience <e1>anxiety</e1> from <e2>fear</e2> of the suffering of their child and worry about an uncertain outcome."
+Cause-Effect(e2,e1)
+
+113 "Kids love watching the stages of <e1>growth</e1> from <e2>caterpillar</e2> to cocoon to butterfly in this easy reliable kit."
+Cause-Effect(e2,e1)
+
+114 "Grubs tend to cause significant <e1>damage</e1> from <e2>autumn</e2> to spring by which time the larvae are becoming fully grown."
+Cause-Effect(e2,e1)
+
+115 "<e1>Cooperation</e1> through <e2>physical activity</e2> promotes important life skills."
+Cause-Effect(e2,e1)
+
+116 "Villagers live in constant <e1>terror</e1> of <e2>indiscriminate gunfire</e2> which fills the nights throughout Chechnya."
+Cause-Effect(e2,e1)
+
+117 "From our point of view, the <e1>moral outrage</e1> over Manet's <e2>painting</e2> seems hypocritical, if not utterly inexplicable."
+Cause-Effect(e2,e1)
+
+118 "This lamp can cause serious skin burn and <e1>eye inflammation</e1> from <e2>shortwave ultraviolet radiation</e2> if outer envelope of the lamp is broken or punctured."
+Cause-Effect(e2,e1)
+
+119 "St John's wort was at least as effective as paroxetine in reducing severity of <e1>depression</e1> after six <e2>weeks</e2>."
+Cause-Effect(e2,e1)
+
+120 "A tear or a crease changes the character of the surface more drastically than a mere <e1>deformation</e1> from <e2>roundness</e2>."
+Cause-Effect(e2,e1)
+
+121 "In this study we examined <e1>mood alterations</e1> through <e2>physical activity</e2> and other interventions."
+Cause-Effect(e2,e1)
+
+122 "Anemia, fatigue or <e1>drowsiness</e1> after <e2>meals</e2> may indicate that parasites are competing with the body for nutrients."
+Cause-Effect(e2,e1)
+
+123 "<e1>Waves</e1> from <e2>earthquakes</e2> travel at different velocities through different media."
+Cause-Effect(e2,e1)
+
+124 "<e1>Insulin resistance</e1> with <e2>sleep deprivation</e2> has been reported in a laboratory study of young, healthy volunteers."
+Cause-Effect(e2,e1)
+
+125 "<e1>Energy expenditure</e1> through <e2>physical activity</e2> is a key component in the prevention and treatment of overweight and obesity."
+Cause-Effect(e2,e1)
+
+126 "You can do a simple experiment which shows how important <e1>sun</e1> is for <e2>growth</e2> by planting a seed and putting it in a closet."
+Cause-Effect(e1,e2)
+
+127 "In addition, scientists may have a number of potentially useful targets to prevent and treat this lethal tumour because of the findings that NOXmediated <e1>overproduction</e1> of hydrogen peroxide is responsible for increased <e2>growth</e2> and decreased death of cancer cells."
+Cause-Effect(e1,e2)
+
+128 "The controlled environment <e1>facility</e1> is for <e2>growth</e2> of experimental material only."
+Cause-Effect(e1,e2)
+
+129 "This can be caused by hepatitis, alcoholic liver disease, <e1>liver inflammation</e1> from <e2>medications</e2>, fatty liver, liver tumors, or heart failure."
+Cause-Effect(e2,e1)
+
+130 "It has opened a sacred refuge for every lie and wrong; no wildest form of which could fail to find some precedent within these Hebrew histories, which tell the story of a people's upward <e1>growth</e1> from <e2>savagery</e2>."
+Cause-Effect(e2,e1)
+
+131 "Six glowing disks await <e1>activation</e1> by the <e2>footsteps</e2> of desert wanderers."
+Cause-Effect(e2,e1)
+
+132 "Tub drains clog up with hair and the <e1>grease</e1> from <e2>soap</e2> and must be cleaned out occasionally."
+Cause-Effect(e2,e1)
+
+133 "Thailand has been bracing itself for a <e1>downturn</e1> in the wake of the <e2>bombs</e2>, especially in the tourist sector."
+Cause-Effect(e2,e1)
+
+134 "To the shock of international observers, the Libyan court found the medics guilty last year and sentenced them to <e1>death</e1> by <e2>firing squad</e2>."
+Cause-Effect(e2,e1)
+
+135 "This prescription drug alleviates <e1>panic</e1> from <e2>claustrophobia</e2> and is also very handy for airplane rides and in case of broken-down subway cars or elevators."
+Cause-Effect(e2,e1)
+
+136 "Everybody in the region experienced the <e1>tremors</e1> after <e2>midnight</e2>."
+Cause-Effect(e2,e1)
+
+137 "Deposits grew 20% with particularly good <e1>growth</e1> from <e2>corporates</e2>."
+Cause-Effect(e2,e1)
+
+138 "The studies revealed that <e1>skin irritation</e1> from <e2>soaps</e2>, inaccessibility to supplies or sinks, and insufficient time to wash hands between every patient care contact were the main reasons given by healthcare workers for lack of handwashing compliance."
+Cause-Effect(e2,e1)
+
+139 "<e1>Infection</e1> starts with <e2>manual execution</e2> of the binary."
+Cause-Effect(e2,e1)
+
+140 "Anthony finds inspiration in a beautiful, enigmatic older woman who teaches him to follow his heart and find <e1>happiness</e1> through <e2>swing dancing</e2>."
+Cause-Effect(e2,e1)
+
+001 "Immediately after the court is opened, the <e1>judge</e1> removes his <e2>wig</e2> and counsel are expected to follow suit."
+Instrument-Agency(e2,e1)
+
+002 "Well, this <e1>footballer</e1> kicked the <e2>ball</e2> the hardest he could and hit me."
+Instrument-Agency(e2,e1)
+
+003 "A <e1>man</e1> struck my video camera with a <e2>hammer</e2> while I accompanied a German film crew in Clearwater."
+Instrument-Agency(e2,e1)
+
+004 "A <e1>moat</e1> keeps the <e2>enemy</e2> at bay."
+Instrument-Agency(e1,e2)
+
+005 "The <e1>astronauts</e1> used the orbiter boom sensor <e2>system</e2> mounted on the end of the shuttle's robotic arm."
+Instrument-Agency(e2,e1)
+
+006 "In converting a tree into thick planks, the <e1>saw</e1> causes a <e2>waste</e2> of a very small fractional part."
+Instrument-Agency(e1,e2)
+
+007 "The <e1>tailor</e1> left his <e2>scissors</e2> on a wall below his balcony."
+Instrument-Agency(e2,e1)
+
+008 "A <e1>raindrop</e1> keeps the same <e2>shape</e2> to a reasonable approximation all the time it is falling."
+Instrument-Agency(e1,e2)
+
+009 "On October 28, 2003, a <e1>worker</e1> was using a <e2>hammer</e2> to tap the arms of a truck's cabstand into a vertical position when the cabstand's arms collapsed in an unintended opposite direction causing the cab to slide off the stand onto the worker's arm."
+Instrument-Agency(e2,e1)
+
+010 "You should place the awl or <e1>screwdriver</e1> underneath the <e2>hinge</e2>, with the pointy end touching the end of the bolt or screw."
+Instrument-Agency(e1,e2)
+
+011 "The <e1>diener</e1> takes a large <e2>scalpel</e2> and makes the incision in the trunk."
+Instrument-Agency(e2,e1)
+
+012 "The <e1>judge</e1> hesitates, <e2>gavel</e2> poised, shooting them a warning look."
+Instrument-Agency(e2,e1)
+
+013 "The test is made by inserting the end of a <e1>jimmy</e1> or other <e2>burglar</e2>'s tool and endeavouring to produce impressions similar to those which have been found on doors or windows."
+Instrument-Agency(e1,e2)
+
+014 "A second aspect of the invention provides apparatuses for indicating the position of an <e1>oar</e1> during <e2>rowing</e2>."
+Instrument-Agency(e1,e2)
+
+015 "They will cast you out of the <e1>net</e1> like any <e2>fisherman</e2> looking for a certain fish."
+Instrument-Agency(e1,e2)
+
+016 "Most people will use a <e1>paddle</e1> to propel their <e2>canoe</e2>."
+Instrument-Agency(e1,e2)
+
+017 "Our powered <e1>scissors</e1> effortlessly cut <e2>fabrics</e2>, gift wrap, vinyl and much more!"
+Instrument-Agency(e1,e2)
+
+018 "A star <e1>footballer</e1> can barely touch the <e2>ball</e2> for 90 minutes, then suddenly produce five seconds of genius that decides the game."
+Instrument-Agency(e2,e1)
+
+019 "The small knife <e1>assemblies</e1> are widely used for cutting various <e2>strips</e2> of flexible materials."
+Instrument-Agency(e1,e2)
+
+020 "Francisco Garcia Lorca sees the <e1>horse</e1> carrying the <e2>rider</e2>, against his will, to his death."
+Instrument-Agency(e1,e2)
+
+021 "The <e1>patient</e1> had crushed a pencil with this <e2>toe</e2> about 30 years previously."
+Instrument-Agency(e2,e1)
+
+022 "Mechanisms that incorporate external compression, limb elevation, exercise, and even a <e1>pump</e1> to improve venous <e2>drainage</e2> may be beneficial."
+Instrument-Agency(e1,e2)
+
+023 "Touch sliding <e1>keyboard</e1> offers keyless <e2>typing</e2>."
+Instrument-Agency(e2,e1)
+
+024 "The <e1>acts</e1> of terror the world has witnessed have welded a <e2>bond</e2> among freedom-loving nations."
+Instrument-Agency(e2,e1)
+
+025 "I heard of horror stories about a needle staying in the tissue after injection, it detached from a <e1>syringe</e1> after a <e2>nurse</e2> completed the injection and tried to withdraw the needle."
+Instrument-Agency(e2,e1)
+
+026 "The <e1>drill</e1> enables the <e2>dentist</e2> to accomplish these procedures quickly and reduces the trauma to oral tissues."
+Instrument-Agency(e1,e2)
+
+027 "The <e1>victim</e1>, who was positioned underneath the conveyor, was using a <e2>hammer</e2> to adjust the return roller."
+Instrument-Agency(e2,e1)
+
+028 "A <e1>gift annuity</e1> combines a <e2>gift</e2> with an investment."
+Instrument-Agency(e2,e1)
+
+029 "It is entirely possible to sail a <e1>canoe</e1> using a <e2>paddle</e2> to steer."
+Instrument-Agency(e1,e2)
+
+030 "The <e1>sledgehammer</e1> can apply more <e2>impulse</e2> than other hammers due to its large size."
+Instrument-Agency(e1,e2)
+
+031 "With its non-slip, ambidextrous grip, the <e1>peeler</e1> glides effortlessly through <e2>foods</e2>."
+Instrument-Agency(e1,e2)
+
+032 "I'm running a <e1>charity</e1> that helps the poorest school <e2>libraries</e2> in the U.S."
+Instrument-Agency(e1,e2)
+
+033 "When the <e1>taxi driver</e1> stopped his <e2>car</e2> and got out, the two people ran up the street toward downtown Potsdam."
+Instrument-Agency(e2,e1)
+
+034 "On this oval porthole, a lace <e1>drape</e1> keeps the <e2>bathroom</e2> private while showing off the shapely window and letting in light."
+Instrument-Agency(e1,e2)
+
+035 "Special construction and a <e1>rubberized trim</e1> helps the <e2>handset</e2> stand up to everyday wear-and-tear, and even occasional dropping."
+Instrument-Agency(e1,e2)
+
+036 "The <e1>actor</e1> played a psychopathic preacher with a restrained <e2>malice</e2>."
+Instrument-Agency(e2,e1)
+
+037 "It is noteworthy that Peacham's emblem has a <e1>hunter</e1> chasing the ermine with a <e2>spear</e2> and dogs."
+Instrument-Agency(e2,e1)
+
+038 "The <e1>corbel</e1> was carved with a contorted <e2>face</e2>."
+Instrument-Agency(e1,e2)
+
+039 "<e1>Calendar</e1> is cut off with some Firefox <e2>extensions</e2> that use the statusbar."
+Instrument-Agency(e2,e1)
+
+040 "<e1>Thieves</e1> used a <e2>blowtorch</e2> and bolt cutters to force their way through a fenced area topped with razor wire."
+Instrument-Agency(e2,e1)
+
+041 "The <e1>glomeruli</e1> assist the <e2>kidneys</e2> in filtering urine from the blood."
+Instrument-Agency(e1,e2)
+
+042 "The <e1>patient</e1> literally sawed it in half using a hard <e2>toothbrush</e2> over a period of many years."
+Instrument-Agency(e2,e1)
+
+043 "A <e1>pulsar</e1> powers the supernova <e2>remnant</e2> by confirming the existence of the point-like source and discovering a cloud of high-energy electrons around the central object."
+Instrument-Agency(e1,e2)
+
+044 "A single <e1>blow</e1> made with the <e2>chisel</e2> angled incorrectly can crack a block or break a delicate protrusion."
+Instrument-Agency(e2,e1)
+
+045 "The piglet's incisor <e1>teeth</e1> are cut off with <e2>pliers</e2>."
+Instrument-Agency(e2,e1)
+
+046 "A very robust metal hydride discovery <e1>approach</e1> was made with a demonstrated HTS <e2>methodology</e2>."
+Instrument-Agency(e2,e1)
+
+047 "The <e1>microwave</e1> <e2>oven</e2> is one of the great inventions of the 20th century."
+Instrument-Agency(e1,e2)
+
+048 "During a dribble the <e1>dribbler</e1> keeps the <e2>ball</e2> on the side of his body that is away from the defender."
+Instrument-Agency(e1,e2)
+
+049 "The event featured a demonstration of weaving on a <e1>loom</e1> by local <e2>weaver</e2> Nancy Alexander."
+Instrument-Agency(e1,e2)
+
+050 "We did a computer search for studies of <e1>vasectomies</e1> done without a <e2>scalpel</e2> versus with a scalpel."
+Instrument-Agency(e2,e1)
+
+051 "A <e1>car battery</e1> powered a <e2>laptop computer</e2> connected to a small, portable satellite antenna."
+Instrument-Agency(e1,e2)
+
+052 "The <e1>software</e1> uses the wrong comment <e2>marks</e2> for PHP files."
+Instrument-Agency(e2,e1)
+
+053 "In the summer, relax by the lake, take out a <e1>paddle</e1> <e2>boat</e2>, canoe or kayak or enjoy the sun at the split rock pool."
+Instrument-Agency(e1,e2)
+
+054 "The <e1>boys</e1> sawed wood with the <e2>sawing machine</e2> this afternoon."
+Instrument-Agency(e2,e1)
+
+055 "Anti-gun <e1>forces</e1> still wield a lot of <e2>political power</e2>."
+Instrument-Agency(e2,e1)
+
+056 "The <e1>mallet</e1> would be held in one hand with the <e2>chisel</e2> touching the wood in the other."
+Instrument-Agency(e2,e1)
+
+057 "The <e1>commander</e1> sawed logs with his <e2>neck</e2> hanging radically from one medieval arm while his feet hung three feet above the hardwood floor on the other side."
+Instrument-Agency(e2,e1)
+
+058 "A <e1>clinical lectureship</e1> combines a <e2>university lectureship</e2> with specialist registrar training (via an honorary national training number)."
+Instrument-Agency(e2,e1)
+
+059 "Using a small sharp <e1>knife</e1>, we cut the <e2>vanilla bean</e2> in half."
+Instrument-Agency(e1,e2)
+
+060 "For this reason the <e1>hairdresser</e1> prefers conventional <e2>scissors</e2>, which however do not exhibit the ergonomical advantages."
+Instrument-Agency(e2,e1)
+
+061 "The brachioradialis <e1>reflex</e1> is observed by striking the brachioradialis tendon directly with the <e2>hammer</e2> when the patient's arm is resting."
+Instrument-Agency(e2,e1)
+
+062 "<e1>Physician</e1> need only bring <e2>stethoscope</e2> and otoscope."
+Instrument-Agency(e2,e1)
+
+063 "Tou should use a <e1>screwdriver</e1> to tighten the <e2>bolt</e2> very tightly."
+Instrument-Agency(e1,e2)
+
+064 "The Norwalk <e1>juicer</e1> grinds and presses any <e2>fruit</e2> or vegetable."
+Instrument-Agency(e1,e2)
+
+065 "Quality forged pinking <e1>scissors</e1> cut with exceptional <e2>ease</e2> and efficiency."
+Instrument-Agency(e1,e2)
+
+066 "It is a motorized spherical mechanism that is designed to simulate the <e1>rowing motion</e1> of an <e2>oar</e2>."
+Instrument-Agency(e2,e1)
+
+067 "Unlike earlier machines, their <e1>typewriter</e1> permits the <e2>typist</e2> to see what is being typed and has other features that make it the first really practical typing machine."
+Instrument-Agency(e1,e2)
+
+068 "The <e1>river</e1> once powered a <e2>gristmill</e2>."
+Instrument-Agency(e1,e2)
+
+069 "This assumes steady employment of a <e1>loom</e1> employing a master <e2>weaver</e2> and three assistants together with female and child helpers."
+Instrument-Agency(e1,e2)
+
+070 "The <e1>broadsword</e1> was used in some <e2>units</e2>."
+Instrument-Agency(e1,e2)
+
+071 "Most <e1>sewing machines</e1> use a sturdier <e2>stitch</e2> known as the lock-stitch."
+Instrument-Agency(e2,e1)
+
+072 "In a nutshell, <e1>orienteering</e1> combines a <e2>physical skill</e2> with a more cerebral element."
+Instrument-Agency(e2,e1)
+
+073 "Originally, the typewriter sales companies sold the <e1>typist</e1> with the <e2>typewriter</e2>."
+Instrument-Agency(e2,e1)
+
+074 "The <e1>president</e1> used the <e2>pretext</e2> of "national security"."
+Instrument-Agency(e2,e1)
+
+075 "We can make <e1>rolling</e1> easier and more effective by choosing a heavy <e2>rolling pin</e2>."
+Instrument-Agency(e1,e2)
+Instrument-Agency(e2,e1)
+
+076 "The <e1>climber</e1> had a <e2>hook</e2> in each hand."
+Instrument-Agency(e2,e1)
+
+077 "A high voltage sand-filled <e1>fuse</e1> was made using a conventional sand-filled fuse <e2>design</e2>."
+Instrument-Agency(e2,e1)
+
+078 "The <e1>company</e1> uses a <e2>policy assertion</e2> to convey a condition under which they offer a Web service."
+Instrument-Agency(e2,e1)
+
+079 "The <e1>booby trap</e1> Puller stepped on was made with a <e2>howitzer shell</e2>."
+Instrument-Agency(e2,e1)
+
+080 "<e1>Police officer</e1> uses a "Taser" <e2>stun gun</e2> to subdue a glass-wielding six-year-old."
+Instrument-Agency(e2,e1)
+
+081 "Paul the <e1>novelist</e1> has a <e2>computer</e2> but uses his old Smith Corona manual."
+Instrument-Agency(e2,e1)
+
+082 "Further left a <e1>boy</e1> is fighting a peacock with a <e2>stick</e2>, and to the right a boy is killing an attacking goat with a spear."
+Instrument-Agency(e2,e1)
+
+083 "Elizabeth Smither's <e1>tokotoko</e1> was made with a <e2>gear lever</e2>."
+Instrument-Agency(e1,e2)
+
+084 "A large <e1>rig</e1> combines a <e2>trampoline system</e2> with a bungee cord system."
+Instrument-Agency(e2,e1)
+
+085 "We unscrew a <e1>light bulb</e1> that uses a lot of <e2>electricity</e2> and replace it with one that uses much less."
+Instrument-Agency(e2,e1)
+
+086 "In a preliminary investigation, <e1>Cheddar cheese</e1> was made with a <e2>lactococcal starter</e2> overproducing different peptidases."
+Instrument-Agency(e2,e1)
+
+087 "The <e1>observatory</e1> has used a 45-meter cosmic radio emission <e2>telescope</e2> to make a number of important contributions."
+Instrument-Agency(e2,e1)
+
+088 "The <e1>lawn mower</e1> cuts a <e2>swath</e2> of grass as it moves across the lawn."
+Instrument-Agency(e1,e2)
+
+089 "<e1>Judges</e1> wear the bench <e2>wig</e2> when they are sitting in court."
+Instrument-Agency(e2,e1)
+
+090 "The <e1>gavel</e1> helps the <e2>judge</e2> establish his or her rule over the court room."
+Instrument-Agency(e1,e2)
+
+091 "The <e1>knight</e1> raised his dragon <e2>battle axe</e2>, and dealt the creature a crushing blow."
+Instrument-Agency(e2,e1)
+
+092 "The <e1>gavel</e1> banged and the <e2>judge</e2> would have sent him back to jail."
+Instrument-Agency(e1,e2)
+
+093 "The book is about HOW the <e1>bomb</e1> was used in <e2>diplomacy</e2>."
+Instrument-Agency(e1,e2)
+
+094 "Many <e1>games</e1> can be played with Go <e2>equipment</e2>."
+Instrument-Agency(e2,e1)
+
+095 "Sitting by the beach, Yuki mended the <e1>net</e1> while the <e2>fisherman</e2> collected the shells."
+Instrument-Agency(e1,e2)
+
+096 "To get a perfect <e1>rowing stroke</e1> the <e2>oar</e2> can't have too much forward pitch or it will dive."
+Instrument-Agency(e2,e1)
+
+097 "The authors take us on an extraordinary journey, from the depths of the ocean to the <e1>net</e1> of a <e2>fisherman</e2>."
+Instrument-Agency(e1,e2)
+
+098 "If the <e1>weaver</e1> sits at the <e2>loom</e2> for extended periods of time, the intense pressure on her lower body generates severe lower back and leg pain."
+Instrument-Agency(e2,e1)
+
+099 "Just as the <e1>net</e1> enables the <e2>fisherman</e2> to catch many fish in one go, the pattern was favored by the samurai as it symbolized victory over many opponents at one time."
+Instrument-Agency(e1,e2)
+
+100 "<e1>Evaluators</e1> applied the statistically accurate <e2>generalization</e2> that men are usually taller than women to their estimates of the height of individuals who did not necessarily conform to the generalization."
+Instrument-Agency(e2,e1)
+
+101 "A <e1>midwife</e1> assists the <e2>birth</e2>, and women usually rely on their mothers or other women for support during labour."
+Instrument-Agency(e1,e2)
+
+102 "<e1>Construction workers</e1> utilized a <e2>crane</e2> to assist in bringing roofing materials up to the top."
+Instrument-Agency(e2,e1)
+
+103 "The <e1>surgeon</e1> cuts a small <e2>hole</e2> in the skull and lifts the edge of the brain to expose the nerve."
+Instrument-Agency(e1,e2)
+
+104 "A <e1>lodge</e1> combines a <e2>colonial atmosphere</e2> with the rustic beauty and history of Africa."
+Instrument-Agency(e2,e1)
+
+105 "The <e1>weaver</e1> sits with a <e2>loom</e2> fixing the back strap, keeps her legs against the footrest, which is adjustable for keeping the loom in tension."
+Instrument-Agency(e2,e1)
+
+106 "A <e1>biologist</e1> combines a range of diverse and distributed <e2>resources</e2> (databases, tools, instruments) to answer complex questions."
+Instrument-Agency(e2,e1)
+
+107 "She spread a cream wax, applied strips (the <e1>spa</e1> uses a stripless <e2>wax</e2> for the bikini), and removed them with such agility that we barely flinched."
+Instrument-Agency(e2,e1)
+
+108 "Every time you increase on a sleeve or knitted piece, add a <e1>knitting pin</e1> to the increase <e2>stitch</e2>."
+Instrument-Agency(e1,e2)
+
+109 "Strikingly large in scale, this <e1>grater</e1> shaves a perfect <e2>portion</e2> in a single stroke."
+Instrument-Agency(e1,e2)
+
+110 "The fascinating aspect of therapeutic riding is that the <e1>rider</e1> sitting astride a <e2>horse</e2> walking establishes what is a perfect walking gait for the human."
+Instrument-Agency(e2,e1)
+
+111 "<e1>Taxi driver</e1> spotted stolen <e2>car</e2> shortly after police sent out an alert."
+Instrument-Agency(e2,e1)
+
+112 "The <e1>builder</e1> can mortise the hinges just as fast using a sharp <e2>chisel</e2>."
+Instrument-Agency(e2,e1)
+
+113 "The woman left the room and walked down the hall and saw the <e1>novelist</e1> hunched before his <e2>computer</e2>."
+Instrument-Agency(e2,e1)
+
+114 "Similarly, the western <e1>physician</e1>'s white coat and <e2>stethoscope</e2> and the environment of western medical clinics and hospitals create an aura of expectancy and hope for healing."
+Instrument-Agency(e2,e1)
+
+115 "The white fatty <e1>substance</e1> obtained from the head of the sperm whale was used in <e2>pharmaceuticals</e2> and candles."
+Instrument-Agency(e1,e2)
+
+116 "As the <e1>policeman</e1> hit her with his <e2>truncheon</e2>, another police officer pushed him away from her and shouted for him to stop."
+Instrument-Agency(e2,e1)
+
+117 "Hoover is also notable for an extremely unusual <e1>vacuum</e1> <e2>cleaner</e2>, the Hoover Constellation, which is canister type but lacks wheels."
+Instrument-Agency(e1,e2)
+
+118 "The original <e1>engine</e1> powered a limited-production Mustang <e2>model</e2> sold for two years."
+Instrument-Agency(e1,e2)
+
+119 "I worked as a <e1>crane</e1> <e2>operator</e2> in construction at that time."
+Instrument-Agency(e1,e2)
+
+120 "Bernie the <e1>barber</e1> downed his <e2>scissors</e2>, leaving the final triangle of hair uncut."
+Instrument-Agency(e2,e1)
+
+121 "The third <e1>observation</e1> was made with the Echellette <e2>spectrograph</e2>."
+Instrument-Agency(e2,e1)
+
+122 "This is the same basic <e1>mechanism</e1> at work in a <e2>vacuum cleaner</e2>, though the execution is a bit more complicated."
+Instrument-Agency(e2,e1)
+Instrument-Agency(e1,e2)
+
+123 "If the same sari is contracted out to a master <e1>weaver</e1> who owns a <e2>loom</e2> but employs two adults and two children to work on it, the adults would get Rs.400 each and the children Rs.100 each."
+Instrument-Agency(e2,e1)
+
+124 "At that point the <e1>patient</e1> grabbed the arm of the dentist to forcibly pull the <e2>drill</e2> out of his mouth."
+Instrument-Agency(e2,e1)
+
+125 "Unless the public authority knows that the <e1>applicant</e1> has used a <e2>pseudonym</e2>, it will be difficult to refuse a request on that ground."
+Instrument-Agency(e2,e1)
+
+126 "Providence had sent the old <e1>man</e1> into the world with a <e2>chisel</e2> in his hand."
+Instrument-Agency(e2,e1)
+
+127 "When the power goes, the <e1>dentist</e1> quizzically raises the <e2>drill</e2>, and examines it."
+Instrument-Agency(e2,e1)
+
+128 "It seemed to be a regular rule that, whenever a <e1>horse</e1> stumbled the <e2>rider</e2> fell off instantly."
+Instrument-Agency(e1,e2)
+
+129 "<e1>Electron microscopes</e1> are scientific instruments that use a <e2>beam</e2> of highly energetic electrons to examine objects on a very fine scale."
+Instrument-Agency(e2,e1)
+
+130 "Cuban <e1>ballplayers</e1> wield a bigger <e2>policy bat</e2>."
+Instrument-Agency(e2,e1)
+
+131 "The <e1>hairdresser</e1> took his <e2>scissors</e2> and held up a coil of hair."
+Instrument-Agency(e2,e1)
+
+132 "A goal is like a mountain outcropping to which a <e1>climber</e1> throws a <e2>grappling hook</e2> and pulls themselves up."
+Instrument-Agency(e2,e1)
+
+133 "The quartz sample <e1>tube</e1> with polyradical residue was cut with diamond <e2>knife</e2> to the size that fit into the Teflon digestion vessel."
+Instrument-Agency(e2,e1)
+
+134 "A sewing machine is a mechanical (or electromechanical) <e1>device</e1> that joins fabric using <e2>thread</e2>."
+Instrument-Agency(e2,e1)
+
+135 "Original <e1>sculptures</e1> were carved with a <e2>chainsaw</e2>."
+Instrument-Agency(e1,e2)
+
+136 "Before the <e1>barber</e1> takes his <e2>scissors</e2> out, family, friends and rabbis take turns snipping."
+Instrument-Agency(e2,e1)
+
+137 "A gasoline <e1>engine</e1> powers a hydraulic drive <e2>train</e2> that provides torque at all six wheels."
+Instrument-Agency(e1,e2)
+
+138 "The authors found that the peak <e1>rowing force</e1> exerted on the <e2>oar blade</e2> increased slowly, but quadratically, with stroke rate."
+Instrument-Agency(e2,e1)
+
+139 "The <e1>interpretation</e1> was made using the Huynh-Feldt adjusted <e2>results</e2>."
+Instrument-Agency(e2,e1)
+
+140 "The <e1>notion</e1> of a backprojection was used in that <e2>section</e2> to characterize the set of states that can reach another set of states in one stage."
+Instrument-Agency(e1,e2)
